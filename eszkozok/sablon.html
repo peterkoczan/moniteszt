@@ -1,0 +1,518 @@
+<title>{{TITLE}}</title>
+<meta name="description" content="{{DESC}}">
+<meta name="theme-color" content="#F2F5F3">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="hu_HU">
+<meta property="og:title" content="{{TITLE}}">
+<meta property="og:description" content="{{DESC}}">
+<meta property="og:url" content="{{SITE}}">
+<meta property="og:image" content="{{SITE}}og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400..700;1,8..60,400..700&display=swap">
+<style>
+:root{
+  --bg:#F2F5F3; --sheet:#FFFFFF; --ink:#15201B; --ink-2:#55615B; --ink-3:#86918B;
+  --rule:#D3DBD6; --rule-2:#E5EBE7;
+  --red:#AE2419; --red-ul:#D8392E; --red-bg:#FCECEA;
+  --teal:#1E5D58; --teal-bg:#E1EDEB; --on-teal:#FFFFFF;
+  --ok:#2C7648; --ok-bg:#E2F0E7;
+  --scrim:rgba(14,22,19,.52);
+  --serif:"Source Serif 4","Source Serif Pro",Georgia,"Times New Roman",serif;
+  --sans:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+  --bar-h:.75rem;
+}
+@media (min-width:760px){:root{--bar-h:4.25rem}}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    color-scheme:dark;
+    --bg:#0E1312; --sheet:#161C1A; --ink:#E3E9E6; --ink-2:#A7B2AD; --ink-3:#737F79;
+    --rule:#2A3431; --rule-2:#212A27;
+    --red:#FF8B80; --red-ul:#FF6A5F; --red-bg:#3B1D1A;
+    --teal:#80C8C0; --teal-bg:#18302D; --on-teal:#0E1312;
+    --ok:#7ED3A1; --ok-bg:#15301F;
+    --scrim:rgba(0,0,0,.62);
+  }
+}
+:root[data-theme="dark"]{
+  color-scheme:dark;
+  --bg:#0E1312; --sheet:#161C1A; --ink:#E3E9E6; --ink-2:#A7B2AD; --ink-3:#737F79;
+  --rule:#2A3431; --rule-2:#212A27;
+  --red:#FF8B80; --red-ul:#FF6A5F; --red-bg:#3B1D1A;
+  --teal:#80C8C0; --teal-bg:#18302D; --on-teal:#0E1312;
+  --ok:#7ED3A1; --ok-bg:#15301F;
+  --scrim:rgba(0,0,0,.62);
+}
+[hidden]{display:none!important}
+*,*::before,*::after{box-sizing:border-box}
+html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 var(--sans)}
+body.noscroll{overflow:hidden}
+a{color:var(--teal)}
+:focus-visible{outline:2px solid var(--teal);outline-offset:2px}
+button{font:inherit;color:inherit}
+
+/* felső sáv */
+.bar{position:relative;z-index:20;background:var(--bg);border-bottom:1px solid var(--rule)}
+@media (min-width:760px){.bar{position:sticky;top:env(safe-area-inset-top,0px)}}
+.bar-in{max-width:1200px;margin:0 auto;padding:.6rem 16px;display:flex;flex-wrap:wrap;align-items:center;gap:.5rem .6rem}
+.search{position:relative;flex:1 1 15rem;min-width:0}
+.search svg{position:absolute;left:.7rem;top:50%;transform:translateY(-50%);width:16px;height:16px;fill:none;stroke:var(--ink-3);stroke-width:2}
+.search input{width:100%;font:400 15px/1.2 var(--sans);padding:.6rem .7rem .6rem 2.15rem;border:1px solid var(--rule);border-radius:6px;background:var(--sheet);color:var(--ink);-webkit-appearance:none;appearance:none}
+.search input::placeholder{color:var(--ink-3)}
+.seg{display:inline-flex;border:1px solid var(--rule);border-radius:6px;overflow:hidden;background:var(--sheet);flex:none}
+.seg button{border:0;background:transparent;color:var(--ink-2);font:500 14px/1 var(--sans);padding:.66rem .8rem;cursor:pointer}
+.seg button+button{border-left:1px solid var(--rule)}
+.seg button[aria-pressed="true"]{background:var(--teal);color:var(--on-teal)}
+.tools{display:flex;flex-wrap:wrap;align-items:center;gap:.45rem;flex:1 1 100%}
+@media (min-width:760px){.tools{flex:0 1 auto}}
+.chip{border:1px solid var(--rule);background:var(--sheet);color:var(--ink-2);border-radius:99px;font:500 13px/1 var(--sans);padding:.5rem .75rem;cursor:pointer;white-space:nowrap}
+.chip[aria-pressed="true"]{border-color:var(--teal);background:var(--teal-bg);color:var(--ink)}
+.btn{border:1px solid var(--teal);background:var(--teal);color:var(--on-teal);border-radius:6px;font:600 14px/1 var(--sans);padding:.62rem .9rem;cursor:pointer;white-space:nowrap}
+.btn.ghost{background:transparent;color:var(--teal)}
+.count{font:500 12.5px var(--mono);color:var(--ink-3);white-space:nowrap;margin-left:auto}
+
+/* elrendezés */
+.layout{max-width:1200px;margin:0 auto;padding-inline:16px;display:grid;grid-template-columns:minmax(0,1fr);gap:3rem}
+@media (min-width:1100px){.layout{grid-template-columns:15.5rem minmax(0,1fr)}}
+.toc{display:none}
+@media (min-width:1100px){
+  .toc{display:block;position:sticky;top:calc(var(--bar-h) + env(safe-area-inset-top,0px));align-self:start;max-height:calc(100vh - var(--bar-h));overflow:auto;padding-block:1.75rem 2rem}
+}
+.toc .lbl{font:600 11.5px var(--sans);letter-spacing:.09em;text-transform:uppercase;color:var(--ink-3);margin:0 0 .55rem .5rem}
+.toc ol{list-style:none;margin:0;padding:0;display:grid;gap:1px}
+.toc a{display:grid;grid-template-columns:1.6rem minmax(0,1fr) auto;align-items:baseline;gap:.35rem;padding:.38rem .5rem;border-radius:5px;color:var(--ink-2);text-decoration:none;font-size:14px;line-height:1.3}
+.toc a:hover{background:var(--sheet);color:var(--ink)}
+.toc a.on{background:var(--teal-bg);color:var(--ink)}
+.toc .n{font:500 12px var(--mono);color:var(--red)}
+.toc .c{font:500 11.5px var(--mono);color:var(--ink-3);font-variant-numeric:tabular-nums}
+main{min-width:0;max-width:48rem;padding-block:1.75rem 5rem}
+
+/* bevezető */
+.eyebrow{font:500 12.5px var(--mono);color:var(--red);letter-spacing:.02em;margin:0}
+h1{font:700 clamp(2.05rem,5.4vw,2.9rem)/1.08 var(--serif);letter-spacing:-.012em;margin:.45rem 0 .8rem;text-wrap:balance}
+.lead{font:400 1.1rem/1.55 var(--serif);color:var(--ink-2);max-width:60ch;margin:0 0 1.1rem}
+.facts{display:flex;flex-wrap:wrap;gap:.35rem 1.4rem;margin:0 0 1.6rem;padding:0;list-style:none;font-size:14px;color:var(--ink-2)}
+.facts b{font:600 1.02rem var(--mono);color:var(--ink);margin-right:.3rem}
+.panel{background:var(--sheet);border:1px solid var(--rule);border-radius:6px;padding:1rem 1.1rem;margin:0 0 1rem}
+.panel h2{font:600 12px var(--sans);letter-spacing:.09em;text-transform:uppercase;color:var(--ink-3);margin:0 0 .6rem}
+.panel p,.panel li{font-size:14.5px;line-height:1.55;max-width:66ch}
+.panel p{margin:.35rem 0}
+.panel ul{margin:.2rem 0;padding-left:1.1rem}
+.panel li{margin:.25rem 0}
+.legend{display:grid;grid-template-columns:auto minmax(0,1fr);gap:.4rem .8rem;margin:0;font-size:14px;align-items:baseline}
+.legend dt{font:500 13px var(--mono);color:var(--ink);white-space:nowrap}
+.legend dd{margin:0;color:var(--ink-2)}
+.legend .kw-demo{font:italic 400 15px var(--serif);color:var(--red);text-decoration:underline;text-decoration-color:var(--red-ul);text-decoration-thickness:1.5px;text-underline-offset:3px}
+.two{display:grid;grid-template-columns:minmax(0,1fr);gap:1rem;margin-bottom:1rem}
+@media (min-width:760px){.two{grid-template-columns:minmax(0,1fr) minmax(0,1fr)}}
+.two .panel{margin:0}
+.topics-wrap{overflow-x:auto}
+table.topics{width:100%;border-collapse:collapse;font-size:14.5px}
+.topics th{font:600 11.5px var(--sans);letter-spacing:.07em;text-transform:uppercase;color:var(--ink-3);text-align:left;padding:.3rem .5rem .45rem;border-bottom:1px solid var(--rule)}
+.topics td{padding:.45rem .5rem;border-bottom:1px solid var(--rule-2);vertical-align:baseline}
+.topics tr:last-child td{border-bottom:0}
+.topics .n{font:500 12.5px var(--mono);color:var(--red);width:2rem}
+.topics .r{text-align:right;font:500 13px var(--mono);font-variant-numeric:tabular-nums;color:var(--ink-2);white-space:nowrap}
+.topics th.r{text-align:right}
+.topics a{color:var(--ink);text-decoration:none}
+.topics a:hover{color:var(--teal);text-decoration:underline}
+.progress{display:flex;flex-wrap:wrap;align-items:center;gap:.5rem 1rem;font-size:14px;color:var(--ink-2);margin:.2rem 0 0}
+.progress b{font:600 14px var(--mono);color:var(--ok)}
+.linkbtn{border:0;background:none;padding:0;color:var(--teal);font:500 13.5px var(--sans);text-decoration:underline;cursor:pointer}
+.src-links{font-size:13.5px;color:var(--ink-2)}
+.src-links a{white-space:nowrap}
+
+/* témák, alfejezetek */
+.topic{margin-top:3.75rem;scroll-margin-top:calc(var(--bar-h) + .75rem)}
+.topic-h{display:flex;align-items:baseline;gap:.8rem;margin:0 0 .3rem}
+.topic-h .n{font:500 1rem var(--mono);color:var(--red);flex:none}
+.topic-h h2{font:700 clamp(1.45rem,3.6vw,1.8rem)/1.2 var(--serif);margin:0;text-wrap:balance}
+.topic-meta{font-size:13.5px;color:var(--ink-3);margin:0 0 .4rem;display:flex;flex-wrap:wrap;gap:.2rem 1rem}
+.topic-meta a{color:var(--ink-3)}
+.sect{font:600 12px/1.2 var(--sans);letter-spacing:.09em;text-transform:uppercase;color:var(--ink-3);margin:2.1rem 0 .8rem;padding-bottom:.45rem;border-bottom:1px solid var(--rule)}
+
+/* kártya */
+.card{background:var(--sheet);border:1px solid var(--rule);border-radius:6px;padding:.95rem 1.1rem 1.05rem;margin:0 0 .85rem;scroll-margin-top:calc(var(--bar-h) + .75rem)}
+.card:target{border-color:var(--teal);box-shadow:0 0 0 1px var(--teal)}
+.card-h{display:flex;align-items:center;flex-wrap:wrap;gap:.45rem .6rem;margin:0 0 .7rem}
+.card-h h4{font:600 15px/1.3 var(--sans);margin:0;flex:1 1 12rem;min-width:0;text-wrap:balance}
+.rep{font:500 11.5px/1 var(--sans);color:var(--red);background:var(--red-bg);border-radius:99px;padding:.32rem .55rem;white-space:nowrap}
+.known{border:1px solid var(--rule);background:transparent;color:var(--ink-2);border-radius:6px;font:500 13px/1 var(--sans);padding:.42rem .6rem;cursor:pointer;white-space:nowrap}
+.known[aria-pressed="true"]{border-color:var(--ok);background:var(--ok-bg);color:var(--ok)}
+.q{display:grid;grid-template-columns:minmax(0,1fr) auto;column-gap:1rem;align-items:start;padding:.6rem 0 0;margin-top:.6rem;border-top:1px dashed var(--rule)}
+.q:first-of-type{border-top:0;margin-top:0;padding-top:0}
+.q-main{min-width:0}
+.q-text{font:600 1.04rem/1.45 var(--serif);margin:0;text-wrap:pretty}
+.q-side{display:flex;flex-direction:column;align-items:flex-end;gap:.3rem;font:500 12px/1 var(--mono);color:var(--ink-2);padding-top:.15rem}
+.q-side .src{color:var(--ink-2)}
+.pts{border:1px solid var(--ink-3);border-radius:2px;padding:.28rem .4rem;color:var(--ink);white-space:nowrap}
+.star{color:var(--red);font-size:14px;cursor:help}
+.opt{margin:.35rem 0 0;font:400 .96rem/1.5 var(--serif);color:var(--ink-2)}
+@media (max-width:559px){
+  .q{grid-template-columns:minmax(0,1fr)}
+  .q-side{order:-1;flex-direction:row;align-items:center;justify-content:flex-start;gap:.5rem;padding:0 0 .4rem}
+}
+.ans{margin-top:.85rem;padding-top:.8rem;border-top:1px solid var(--rule);font:italic 400 1.03rem/1.55 var(--serif);color:var(--red)}
+.ans>:first-child{margin-top:0}
+.ans>:last-child{margin-bottom:0}
+.ans p{margin:.3rem 0}
+.ans ul,.ans ol{margin:.25rem 0 .5rem;padding-left:1.3rem}
+.ans li{margin:.18rem 0;padding-left:.1rem}
+.ans li::marker{color:var(--ink-3);font-style:normal}
+.ans strong{font:600 .9em var(--sans);font-style:normal;color:var(--ink)}
+.ans em{font-style:normal}
+.ans sub,.opt sub,.q-text sub{font-size:.7em;line-height:0}
+.ans .kw{text-decoration:underline;text-decoration-color:var(--red-ul);text-decoration-thickness:1.5px;text-underline-offset:3px}
+.ans .tag{font:400 11.5px var(--mono);font-style:normal;color:var(--ink-3);white-space:nowrap;margin-left:.3rem}
+.ans .sub{font:600 11.5px/1.3 var(--sans);font-style:normal;letter-spacing:.07em;text-transform:uppercase;color:var(--ink-2);margin:.9rem 0 .3rem}
+.ans .sub strong{font:inherit;color:inherit}
+.ans .sub:first-child{margin-top:0}
+.ans .key{font:400 12.5px/1.5 var(--mono);font-style:normal;color:var(--ink-2);margin:.6rem 0 0}
+.ans .tip{font:400 14px/1.5 var(--sans);font-style:normal;color:var(--ink);background:var(--teal-bg);border-radius:5px;padding:.5rem .7rem;margin:.65rem 0 0}
+.ans .tbl{overflow-x:auto;margin:.3rem 0 .55rem}
+.ans table{border-collapse:collapse;width:100%;font:400 .95rem/1.4 var(--serif)}
+.ans th{font:600 11px/1.2 var(--sans);letter-spacing:.06em;text-transform:uppercase;font-style:normal;color:var(--ink-3);text-align:left;padding:.3rem .7rem .4rem 0;border-bottom:1px solid var(--rule);white-space:nowrap}
+.ans td{padding:.38rem .7rem .38rem 0;border-bottom:1px solid var(--rule-2);vertical-align:top;font-style:italic;color:var(--red)}
+.ans td:first-child{font-style:normal;font-weight:600;color:var(--ink)}
+.ans tr:last-child td{border-bottom:0}
+/* helyes / hibás állítás, választós sor */
+.ans li.st,.ans li.ch{list-style:none;position:relative;margin-left:-1.3rem;padding-left:1.45rem}
+.st::before{position:absolute;left:0;top:.08em;font:600 13px/1.5 var(--sans);font-style:normal}
+.st.ok::before{content:"✓";color:var(--red)}
+.st.no::before{content:"✕";color:var(--ink-3)}
+.st .t,.ch .stem{font-style:normal;color:var(--ink)}
+.st.ok .t,.ch .o.ok{text-decoration:underline;text-decoration-color:var(--red-ul);text-decoration-thickness:1.5px;text-underline-offset:3px}
+.st.no .t{color:var(--ink-3)}
+.ch::before{content:"?";position:absolute;left:.1rem;top:.08em;font:600 13px/1.5 var(--sans);font-style:normal;color:var(--ink-3)}
+.ch .o{font-style:normal;color:var(--ink)}
+.ch .o.no{color:var(--ink-3);text-decoration:line-through;text-decoration-color:var(--ink-3)}
+.ch .sep{font-style:normal;color:var(--ink-3);margin:0 .3rem}
+.fix{margin-left:.35rem}
+/* elrejtett megoldás (önellenőrzés) */
+.card.masked[data-kind="std"] .ans{display:none}
+.card.masked .st::before{content:"○";color:var(--ink-3)}
+.card.masked .st .t,.card.masked .ch .o{color:var(--ink);text-decoration:none}
+.card.masked .fix,.card.masked .tip,.card.masked .key{display:none}
+.reveal{display:none;margin-top:.85rem;border:1px solid var(--teal);background:transparent;color:var(--teal);border-radius:6px;font:600 14px/1 var(--sans);padding:.6rem .95rem;cursor:pointer}
+body.quiz .reveal{display:inline-block}
+.card.masked .reveal{background:var(--teal);color:var(--on-teal)}
+.empty{font:400 1.05rem var(--serif);color:var(--ink-2);padding:2rem 0}
+
+/* forrásindex */
+.idx{margin-top:4.5rem;scroll-margin-top:calc(var(--bar-h) + .75rem)}
+.idx h2{font:700 1.45rem/1.2 var(--serif);margin:0 0 .35rem}
+.idx>p{font-size:14px;color:var(--ink-2);margin:0 0 1rem}
+.idx-row{display:grid;grid-template-columns:9rem minmax(0,1fr);gap:.5rem 1rem;padding:.7rem 0;border-top:1px solid var(--rule)}
+.idx-row h3{font:600 14px/1.3 var(--sans);margin:0}
+.idx-row h3 small{display:block;font:400 12.5px var(--sans);color:var(--ink-3);margin-top:.15rem}
+.chips{display:flex;flex-wrap:wrap;gap:.3rem}
+.chips a{font:500 12.5px/1 var(--mono);min-width:2.25rem;text-align:center;padding:.4rem .35rem;border:1px solid var(--rule);border-radius:4px;background:var(--sheet);color:var(--ink);text-decoration:none}
+.chips a:hover{border-color:var(--teal);color:var(--teal)}
+.chips a.k{border-color:var(--ok);background:var(--ok-bg);color:var(--ok)}
+@media (max-width:560px){.idx-row{grid-template-columns:minmax(0,1fr)}}
+.foot{margin-top:3rem;font-size:13px;color:var(--ink-3);max-width:66ch}
+
+/* kikérdezés */
+.drill{position:fixed;inset:0;z-index:50;background:var(--scrim);overflow:auto;padding:calc(env(safe-area-inset-top,0px) + 1rem) 16px calc(env(safe-area-inset-bottom,0px) + 1rem)}
+.drill-box{max-width:46rem;margin:0 auto;background:var(--bg);border-radius:10px;padding:1rem;box-shadow:0 18px 50px rgba(0,0,0,.28)}
+.drill-top{display:flex;align-items:center;gap:.75rem;margin:0 0 .8rem}
+.drill-top b{font:700 1.2rem var(--serif);flex:1}
+.drill-top span{font:500 12.5px var(--mono);color:var(--ink-3)}
+.drill .card{margin:0}
+.drill-actions{display:flex;flex-wrap:wrap;justify-content:flex-end;gap:.5rem;margin-top:.85rem}
+.drill-done{background:var(--sheet);border:1px solid var(--rule);border-radius:6px;padding:1.5rem 1.2rem;font:400 1.05rem/1.5 var(--serif)}
+
+@media print{
+  .bar,.toc,.known,.reveal,.drill,.no-print{display:none!important}
+  body{background:#fff}
+  .layout{display:block}
+  .card{break-inside:avoid;border-color:#bbb}
+  .card.masked .ans{display:block!important}
+}
+</style>
+<!--TORZS-->
+<div id="top" lang="hu">
+<header class="bar">
+  <div class="bar-in">
+    <label class="search" for="q">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.6-3.6"/></svg>
+      <input id="q" type="search" placeholder="Keresés: lép, vitamin, II/5…" autocomplete="off" aria-label="Keresés a kártyák között">
+    </label>
+    <div class="seg" role="group" aria-label="Megjelenítés">
+      <button id="m-learn" type="button" aria-pressed="true">Tanulás</button>
+      <button id="m-quiz" type="button" aria-pressed="false">Önellenőrzés</button>
+    </div>
+    <div class="tools">
+      <button id="f-rep" class="chip" type="button" aria-pressed="false">Ismétlődők</button>
+      <button id="f-todo" class="chip" type="button" aria-pressed="false">Még nem tudom</button>
+      <button id="drill-open" class="btn" type="button">Kikérdezés</button>
+      <span id="count" class="count" aria-live="polite">{{STAT_KARTYA}} kártya</span>
+    </div>
+  </div>
+</header>
+<div class="layout">
+  <nav class="toc" aria-label="Témák">
+    <p class="lbl">Témák</p>
+    <ol>
+{{TOC}}
+    </ol>
+  </nav>
+  <main>
+    <section class="intro">
+      <p class="eyebrow">{{EYEBROW}}</p>
+      <h1>Egészségügyi alapmodul</h1>
+      <p class="lead">Tananyag a természetgyógyászati képzés egészségügyi alapmoduljának 2026. június 8–11-i írásbeli vizsgáiból: mind a nyolc feladatsor minden kérdése, témák szerint. Az azonos vagy átfedő kérdések egy kártyára kerültek.</p>
+      <ul class="facts">
+        <li><b>{{STAT_KERDES}}</b>vizsgakérdés</li>
+        <li><b>{{STAT_KARTYA}}</b>kártya</li>
+        <li><b>{{STAT_OSSZEVONT}}</b>összevont kártya</li>
+        <li><b>{{STAT_TEMA}}</b>téma</li>
+      </ul>
+      <div class="two">
+        <section class="panel">
+          <h2>Jelek</h2>
+          <dl class="legend">
+            <dt>II/5</dt><dd>II. feladatsor, 5. kérdés. I–II: jún. 8., III–IV: jún. 9., V–VI: jún. 10., VII–VIII: jún. 11.</dd>
+            <dt>4 pont</dt><dd>ennyit ért a kérdés a 100 pontos dolgozatban</dd>
+            <dt>✱</dt><dd>tartalmilag azonos, más megfogalmazású válasz is elfogadható</dd>
+            <dt><span class="kw-demo">kulcsszó</span></dt><dd>fogalommeghatározásnál csak akkor jár teljes pont, ha minden aláhúzott kulcsszó szerepel</dd>
+            <dt>✓ / ✕</dt><dd>aláhúzandó, illetve nem aláhúzandó állítás; a „→” utáni javítás nem a megoldólapról való</dd>
+            <dt>(1–B)</dt><dd>megoldókulcs a párosító és csoportosító feladatokhoz</dd>
+          </dl>
+        </section>
+        <section class="panel">
+          <h2>Így pontoznak</h2>
+          <ul>
+            <li>100 pont a maximum, <strong>71 ponttól</strong> megfelelt.</li>
+            <li>A „/” jellel elválasztott válaszok egyenértékűek.</li>
+            <li>A felsoroltatós kérdéseknél a megoldólap több helyes választ ad, mint amennyi kell: elég a kért darabszám.</li>
+            <li>Ha választós feladatban minden lehetőséget megjelölsz, 0 pont jár; a fölösleges jelölések levonnak.</li>
+            <li>A tartalmat értékelik, a helyesírást nem.</li>
+          </ul>
+        </section>
+      </div>
+      <section class="panel" id="temak">
+        <h2>Témák a feladatsorok sorrendjében</h2>
+        <div class="topics-wrap">
+          <table class="topics">
+            <thead><tr><th scope="col">#</th><th scope="col">Téma</th><th scope="col" class="r">Kártya</th><th scope="col" class="r">Pont (800-ból)</th></tr></thead>
+            <tbody>
+{{TOPICTABLE}}
+            </tbody>
+          </table>
+        </div>
+        <p class="progress"><span>Haladásod: <b id="known-count">0</b> / {{STAT_KARTYA}} kártya „tudom”</span><button id="reset" class="linkbtn" type="button">Jelölések törlése</button></p>
+      </section>
+      <p class="src-links">Forrás (OKFŐ megoldólapok, PDF): {{PDFLINKS}}</p>
+    </section>
+    <p id="empty" class="empty" hidden>Nincs a szűrésnek megfelelő kártya.</p>
+{{TOPICS}}
+{{INDEX}}
+    <p class="foot">Nem hivatalos összeállítás. A megoldások az Országos Kórházi Főigazgatóság megoldólapjairól származnak; a zárójeles magyar nevek, a „→” javítások és a tippek kiegészítések. A „tudom” jelöléseket csak ez a böngésző jegyzi meg. {{GENERATED}}</p>
+  </main>
+</div>
+<div id="drill" class="drill" hidden role="dialog" aria-modal="true" aria-labelledby="drill-title">
+  <div class="drill-box">
+    <div class="drill-top"><b id="drill-title">Kikérdezés</b><span id="drill-left"></span><button id="drill-close" class="btn ghost" type="button">Bezárás</button></div>
+    <div id="drill-card"></div>
+    <div class="drill-actions">
+      <button id="drill-show" class="btn" type="button">Megoldás</button>
+      <button id="drill-no" class="btn ghost" type="button">Még nem tudom</button>
+      <button id="drill-yes" class="btn ghost" type="button">Tudom</button>
+    </div>
+  </div>
+</div>
+</div>
+<script>
+(function(){
+  'use strict';
+  document.documentElement.lang = 'hu';
+  var KEY = 'eum2026:tudom', MKEY = 'eum2026:mod', FKEY = 'eum2026:szuro';
+  function get(k, d){ try { var v = localStorage.getItem(k); return v == null ? d : JSON.parse(v); } catch (e) { return d; } }
+  function put(k, v){ try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} }
+  function $(s){ return document.querySelector(s); }
+  function norm(s){ return s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase(); }
+
+  var cards = Array.prototype.slice.call(document.querySelectorAll('main .card'));
+  var byId = {};
+  cards.forEach(function(c){ byId[c.dataset.id] = c; c._text = norm(c.textContent); });
+  var known = new Set((get(KEY, []) || []).filter(function(id){ return byId[id]; }));
+  var mode = get(MKEY, 'learn') === 'quiz' ? 'quiz' : 'learn';
+  var filt = get(FKEY, {}) || {};
+  var q = $('#q');
+
+  function paintKnown(c){
+    var on = known.has(c.dataset.id);
+    c.classList.toggle('is-known', on);
+    var b = c.querySelector('.known');
+    if (b) { b.setAttribute('aria-pressed', on ? 'true' : 'false'); b.textContent = on ? '✓ Tudom' : 'Tudom'; }
+    var chips = document.querySelectorAll('.chips a[data-card="' + c.dataset.id + '"]');
+    for (var i = 0; i < chips.length; i++) chips[i].classList.toggle('k', on);
+  }
+  function counts(){
+    var links = document.querySelectorAll('.toc a[data-topic]');
+    for (var i = 0; i < links.length; i++) {
+      var t = document.getElementById(links[i].dataset.topic);
+      var cs = t.querySelectorAll('.card'), k = 0;
+      for (var j = 0; j < cs.length; j++) if (known.has(cs[j].dataset.id)) k++;
+      links[i].querySelector('.c').textContent = k + '/' + cs.length;
+    }
+    $('#known-count').textContent = known.size;
+  }
+  function setKnown(c, on){
+    if (on) known.add(c.dataset.id); else known.delete(c.dataset.id);
+    put(KEY, Array.from(known));
+    paintKnown(c); counts();
+  }
+  function revealLabel(c){
+    var b = c.querySelector('.reveal');
+    if (!b) return;
+    b.textContent = c.classList.contains('masked') ? (c.dataset.kind === 'mark' ? 'Ellenőrzés' : 'Megoldás') : 'Elrejtés';
+  }
+  function applyMode(){
+    document.body.classList.toggle('quiz', mode === 'quiz');
+    $('#m-learn').setAttribute('aria-pressed', mode === 'learn' ? 'true' : 'false');
+    $('#m-quiz').setAttribute('aria-pressed', mode === 'quiz' ? 'true' : 'false');
+    cards.forEach(function(c){ c.classList.toggle('masked', mode === 'quiz'); revealLabel(c); });
+  }
+  function applyFilters(){
+    var term = norm(q.value.trim()), shown = 0;
+    cards.forEach(function(c){
+      var ok = (!term || c._text.indexOf(term) !== -1) &&
+               (!filt.rep || +c.dataset.rep > 1) &&
+               (!filt.todo || !known.has(c.dataset.id));
+      c.hidden = !ok;
+      if (ok) shown++;
+    });
+    var groups = document.querySelectorAll('main .sect-wrap, main .topic');
+    for (var i = 0; i < groups.length; i++) groups[i].hidden = !groups[i].querySelector('.card:not([hidden])');
+    var filtering = shown !== cards.length;
+    $('#count').textContent = filtering ? shown + ' / ' + cards.length + ' kártya' : cards.length + ' kártya';
+    $('#empty').hidden = shown !== 0;
+    $('#f-rep').setAttribute('aria-pressed', filt.rep ? 'true' : 'false');
+    $('#f-todo').setAttribute('aria-pressed', filt.todo ? 'true' : 'false');
+  }
+
+  $('#m-learn').addEventListener('click', function(){ mode = 'learn'; put(MKEY, mode); applyMode(); });
+  $('#m-quiz').addEventListener('click', function(){ mode = 'quiz'; put(MKEY, mode); applyMode(); });
+  $('#f-rep').addEventListener('click', function(){ filt.rep = !filt.rep; put(FKEY, filt); applyFilters(); });
+  $('#f-todo').addEventListener('click', function(){ filt.todo = !filt.todo; put(FKEY, filt); applyFilters(); });
+  var tmr;
+  q.addEventListener('input', function(){ clearTimeout(tmr); tmr = setTimeout(applyFilters, 90); });
+  document.addEventListener('keydown', function(e){
+    if (e.key === '/' && document.activeElement !== q && $('#drill').hidden && !/input|textarea/i.test(document.activeElement.tagName)) { e.preventDefault(); q.focus(); }
+  });
+  document.querySelector('main').addEventListener('click', function(e){
+    var b = e.target.closest('button');
+    if (!b) return;
+    var c = b.closest('.card');
+    if (!c) return;
+    if (b.classList.contains('known')) setKnown(c, !known.has(c.dataset.id));
+    else if (b.classList.contains('reveal')) { c.classList.toggle('masked'); revealLabel(c); }
+  });
+  var resetArmed = null;
+  $('#reset').addEventListener('click', function(){
+    var b = this;
+    if (!resetArmed) {
+      b.textContent = 'Biztosan törlöd? Kattints újra';
+      resetArmed = setTimeout(function(){ resetArmed = null; b.textContent = 'Jelölések törlése'; }, 4000);
+      return;
+    }
+    clearTimeout(resetArmed); resetArmed = null; b.textContent = 'Jelölések törlése';
+    known.clear(); put(KEY, []); cards.forEach(paintKnown); counts(); applyFilters();
+  });
+
+  // ugrás egy kártyára (#k-...), akkor is, ha a szűrés elrejtené
+  function showTarget(){
+    var id = location.hash.slice(1);
+    if (!id) return;
+    var el = document.getElementById(id);
+    if (el && el.hidden !== undefined && el.closest && el.closest('[hidden]')) {
+      q.value = ''; filt.rep = false; filt.todo = false; put(FKEY, filt); applyFilters();
+      el.scrollIntoView();
+    }
+  }
+  window.addEventListener('hashchange', showTarget);
+
+  // aktív téma a tartalomjegyzékben
+  if ('IntersectionObserver' in window) {
+    var links = {};
+    document.querySelectorAll('.toc a[data-topic]').forEach(function(a){ links[a.dataset.topic] = a; });
+    var io = new IntersectionObserver(function(entries){
+      entries.forEach(function(en){
+        if (en.isIntersecting) {
+          Object.keys(links).forEach(function(k){ links[k].classList.toggle('on', k === en.target.id); });
+        }
+      });
+    }, { rootMargin: '-30% 0px -60% 0px' });
+    document.querySelectorAll('main .topic').forEach(function(t){ io.observe(t); });
+  }
+
+  // kikérdezés
+  var drill = $('#drill'), slot = $('#drill-card'), pool = [], cur = null;
+  function shuffle(a){ for (var i = a.length - 1; i > 0; i--) { var j = Math.floor(Math.random() * (i + 1)); var t = a[i]; a[i] = a[j]; a[j] = t; } return a; }
+  function openDrill(){
+    var vis = cards.filter(function(c){ return !c.hidden; });
+    var todo = vis.filter(function(c){ return !known.has(c.dataset.id); });
+    pool = shuffle((todo.length ? todo : vis).slice());
+    drill.hidden = false;
+    document.body.classList.add('noscroll');
+    nextCard();
+  }
+  function closeDrill(){
+    drill.hidden = true;
+    document.body.classList.remove('noscroll');
+    applyFilters();
+    $('#drill-open').focus();
+  }
+  function nextCard(){
+    drill.scrollTop = 0;
+    if (!pool.length) {
+      cur = null;
+      slot.innerHTML = '<div class="drill-done"><p><strong>Kör vége.</strong> ' + known.size + ' / ' + cards.length + ' kártyát jelöltél „tudom”-nak. Új kör indításához zárd be, majd nyisd meg újra a kikérdezést.</p></div>';
+      $('#drill-left').textContent = '';
+      $('#drill-show').hidden = true; $('#drill-yes').hidden = true; $('#drill-no').hidden = true;
+      $('#drill-close').focus();
+      return;
+    }
+    cur = pool.shift();
+    var cl = cur.cloneNode(true);
+    cl.removeAttribute('id'); cl.hidden = false;
+    cl.classList.add('masked'); cl.classList.remove('is-known');
+    var extra = cl.querySelectorAll('.known, .reveal');
+    for (var i = 0; i < extra.length; i++) extra[i].remove();
+    slot.innerHTML = ''; slot.appendChild(cl);
+    $('#drill-left').textContent = 'még ' + (pool.length + 1);
+    $('#drill-show').hidden = false; $('#drill-yes').hidden = false; $('#drill-no').hidden = false;
+    $('#drill-show').focus();
+  }
+  function revealDrill(){
+    var cl = slot.querySelector('.card');
+    if (cl) cl.classList.remove('masked');
+    $('#drill-show').hidden = true;
+    $('#drill-yes').focus();
+  }
+  $('#drill-open').addEventListener('click', openDrill);
+  $('#drill-close').addEventListener('click', closeDrill);
+  $('#drill-show').addEventListener('click', revealDrill);
+  $('#drill-yes').addEventListener('click', function(){ if (cur) setKnown(cur, true); nextCard(); });
+  $('#drill-no').addEventListener('click', function(){ if (cur) setKnown(cur, false); nextCard(); });
+  drill.addEventListener('click', function(e){ if (e.target === drill) closeDrill(); });
+  document.addEventListener('keydown', function(e){
+    if (drill.hidden) return;
+    if (e.key === 'Escape') closeDrill();
+  });
+
+  cards.forEach(paintKnown);
+  counts();
+  applyMode();
+  applyFilters();
+  showTarget();
+})();
+</script>

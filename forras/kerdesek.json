@@ -1,0 +1,3071 @@
+{
+ "forras_oldal": "https://enk.okfo.gov.hu/tevekenysegek/tgy-eu-alapmodul-es-szakmai-vizsga/vizsgaeredmenyek-2026/2026.-junius-8-11-termeszetgyogyaszati-es-egeszsegugyi-vizsgak-megoldolapjai",
+ "modul": "Egészségügyi alapmodul",
+ "dolgozatok": [
+  {
+   "jel": "I",
+   "datum": "2026-06-08",
+   "cim": "Egészségügyi alapmodul 20260608 I.",
+   "pdf": "https://enk.okfo.gov.hu/pfile/file?path=/tevekenysegek/szakkepzes-fejlesztes/szakkepzeshez-kapcsolodo-dokumentumok-gyujtemenye/Megoldolapok/EUM_2026.06.08._2026.06.11/EUM_0608.pdf1",
+   "osszpont": 100,
+   "kerdesek": [
+    {
+     "szam": 1,
+     "pont": 4,
+     "csillag": true,
+     "kerdes": "Soroljon fel a sejt életjelenségei közül négyet!",
+     "sorok": [
+      "【- anyagcsere 】",
+      "【- sejtmozgás 】",
+      "【- ingerlékenység 】",
+      "【- sejtnövekedés 】",
+      "【- sejtosztódás 】",
+      "【- szabályozás 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 2,
+     "pont": 4,
+     "csillag": true,
+     "kerdes": "Nevezzen meg a fertőzés terjedési módjaira kettő-kettő példát!",
+     "sorok": [
+      "közvetlen érintkezés:",
+      "【- kézfogás 】",
+      "【- csók 】",
+      "【- szexuális érintkezés 】",
+      "【- állatharapás 】",
+      "közvetett terjedés:",
+      "【- cseppfertőzés 】",
+      "【- víz vagy élelmiszer 】",
+      "【- tárgyak közvetítésével 】",
+      "【- talaj közvetítésével 】",
+      "【- intrauterin fertőzések 】",
+      "【- rovarok és rágcsálók közvetítésével 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 3,
+     "pont": 3,
+     "csillag": true,
+     "kerdes": "Ismertessen a csontvázizom jellemzői közül hármat!",
+     "sorok": [
+      "【- akaratunktól függően működik 】",
+      "【- harántcsíkolt izomzat 】",
+      "【- gyors, nagy erőkifejtésre képes 】",
+      "【- viszonylag gyorsan elfárad 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 4,
+     "pont": 3,
+     "csillag": true,
+     "kerdes": "Soroljon fel magyarul az alsó végtag csontjai közül hármat!",
+     "sorok": [
+      "【- csípőcsont 】",
+      "【- ülőcsont 】",
+      "【- szeméremcsont 】",
+      "【- combcsont 】",
+      "【- sípcsont 】",
+      "【- szárkapocscsont 】",
+      "【- lábtőcsontok 】",
+      "【- lábközépcsontok 】",
+      "【- ujjperccsontok 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 5,
+     "pont": 3,
+     "csillag": false,
+     "kerdes": "Írja le, hol helyezkednek el a szívben az alábbi billentyűk!",
+     "sorok": [
+      "Zsebes billentyűk:",
+      "...【a nagyartériák szájadékában és a fő visszerekben】…",
+      "Kéthegyű vitorlás billentyű:",
+      "..【 a bal pitvar és a bal kamra között】...",
+      "Háromhegyű vitorlás billentyű:",
+      "...【a jobb pitvar és a jobb kamra között】..."
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 6,
+     "pont": 4,
+     "csillag": false,
+     "kerdes": "Húzza alá az alábbiak közül a lép feladatait!",
+     "sorok": [
+      "- méreganyagok kiválasztása",
+      "- ⟦lymphocyták képzése⟧",
+      "- ⟦vérlemezkék lebontása⟧",
+      "- ⟦vér raktározása⟧",
+      "- maltáz termelése",
+      "- ⟦vörösvérsejtek lebontása ⟧",
+      "- glükogén raktározása",
+      "- C-vitamin tárolása"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 7,
+     "pont": 3,
+     "csillag": true,
+     "kerdes": "Írjon le a szívbillentyűhibák (vitium cordis) típusai közül hármat!",
+     "sorok": [
+      "【- bal vénás szájadék szűkülete 】",
+      "【- kéthegyű szívbillentyű- elégtelensége 】",
+      "【- aortabillentyű- elégtelensége 】",
+      "【- aortaszűkület 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 8,
+     "pont": 4,
+     "csillag": false,
+     "kerdes": "Sorolja fel a gége porcait!",
+     "sorok": [
+      "【- pajzsporc 】",
+      "【- gyűrűporc 】",
+      "【- kannaporcok 】",
+      "【- gégefedő 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 9,
+     "pont": 6,
+     "csillag": false,
+     "kerdes": "Csoportosítsa a légzőrendszeri megbetegedések jellemző tüneteit a megadott szempontok szerint! Írja a sorszámokat a megfelelő helyre!",
+     "sorok": [
+      "1. barnásvörös köpet ürítése",
+      "2. magas, nehezen csillapítható láz",
+      "3. hosszan elnyúló, sípoló kilégzés",
+      "4. szapora, nehezített légzés",
+      "5. rövid, kapkodó belégzés",
+      "6. üvegszerű, tapadós köpet ürítése",
+      "tüdőasztma tünetei: ...【3., 5., 6.】...",
+      "tüdőgyulladás tünetei: ...【1., 2., 4.】..."
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 10,
+     "pont": 6,
+     "csillag": false,
+     "kerdes": "Állítsa sorrendbe az alábbi anatómiai képleteket a táplálék emésztőrendszerben megtett útjának megfelelően! Írja a sorszámokat a pontozott vonalra a helyes sorrendnek megfelelően!",
+     "sorok": [
+      "1. oesophagus",
+      "2. cavum oris",
+      "3. gaster",
+      "4. colon",
+      "5. intestinum",
+      "6. pharynx",
+      "Helyes sorrend: 【…2., 6., 1., 3., 5., 4.… 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 11,
+     "pont": 6,
+     "csillag": false,
+     "kerdes": "Nevezze meg az emésztőrendszer enzimeit és azok funkcióját! Egészítse ki a táblázatot!",
+     "sorok": [
+      "Emésztőrendszer Emésztőenzimek Tápanyagok bontása",
+      "részei",
+      "szájüreg ptialin, maltáz 【szénhidrát 】",
+      "kimozin 【tejfehérje】",
+      "gyomor",
+      "【pepszin 】 fehérje",
+      "tripszin 【fehérje 】",
+      "vékonybél 【amiláz】 szénhidrát",
+      "lipáz 【zsír】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 12,
+     "pont": 2,
+     "csillag": true,
+     "kerdes": "Írjon a májzsugorodás (cirrhosis hepatis) lehetséges okára két példát!",
+     "sorok": [
+      "【- krónikus alkoholizmus 】",
+      "【- hepatitisvírus 】",
+      "【- epeúti elzáródás 】",
+      "【- májmérgek 】",
+      "【- öröklődő betegség 】",
+      "【- krónikus vénás pangás 】",
+      "【- epeutak, epehólyag idült gyulladása 】",
+      "【- anyagcsere-betegség 】",
+      "【- hormonális zavarok】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 13,
+     "pont": 5,
+     "csillag": false,
+     "kerdes": "Húzza alá a felsorolásból a nephron részeit!",
+     "sorok": [
+      "- ⟦Henle-kacs⟧",
+      "- myelinhüvelyek",
+      "- ⟦másodlagos kanyarulatos csatorna⟧",
+      "- Langerhans-szigetek",
+      "- ⟦Malpighi-test⟧",
+      "- ⟦elsődleges kanyarulatos csatorna⟧",
+      "- Bartholin-mirigy",
+      "- ⟦Bowman-tok⟧",
+      "- neurocyta"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 14,
+     "pont": 6,
+     "csillag": false,
+     "kerdes": "Csoportosítsa a heveny veseelégtelenség lehetséges okait! Írja a sorszámokat a megfelelő helyre!",
+     "sorok": [
+      "1. vesekő az uréterben 4. terhességi vesebaj",
+      "2. terhesség alatti mérgezéses állapot 5. kiszáradás",
+      "3. sokk 6. daganatos kompresszió az",
+      "uréterben",
+      "A vese előtti lehetséges okok: …【3., 5.】…",
+      "Vese eredetű lehetséges okok: …【2., 4.】…",
+      "Vese utáni lehetséges okok: …【1., 6.】…"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 15,
+     "pont": 6,
+     "csillag": false,
+     "kerdes": "Egészítse ki a fogamzással kapcsolatos mondatokat!",
+     "sorok": [
+      "Az érett petesejt az …【ovulációt】… követően a méhkürtbe jut, ahol találkozik a",
+      "…【spermiumokkal】….",
+      "A …【megtermékenyült】… petesejt első osztódása a petevezetékben történik meg.",
+      "Ezt követően a petesejt a méh üregébe jut a petevezeték …【hámjának csillói】…",
+      "és …【féregszerű】… mozgása következtében, ahol …【beágyazódik】… az",
+      "előkészült nyálkahártyába."
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 16,
+     "pont": 4,
+     "csillag": true,
+     "kerdes": "Ismertesse a hererák betegséget az alábbi szempontok szerint!",
+     "sorok": [
+      "A betegség tünetei: Írjon kettőt!",
+      "【˗ fájdalmatlan csomók megjelenése a herében 】",
+      "【˗ here megnagyobbodása 】",
+      "【˗ tompa fájdalom hasban, ágyékban 】",
+      "【˗ folyadékgyülem a herében 】",
+      "【˗ emlők megnagyobbodása 】",
+      "A betegség gyógyításának lehetőségei: Írjon kettőt!",
+      "【˗ műtét 】",
+      "【˗ kemoterápia 】",
+      "【˗ sugárkezelés 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 17,
+     "pont": 5,
+     "csillag": false,
+     "kerdes": "Válaszoljon az alábbi kérdésekre!",
+     "sorok": [
+      "Milyen hatást vált ki a méhre a terhesség végén az oxitocin?",
+      "【…erős méhösszehúzódásokat vált ki, beindítja a szülést… 】",
+      "Hogyan kerül főként jód a szervezetbe?",
+      "【… ivóvízzel és jódozott konyhasó formájában… 】",
+      "Miért nevezték vasopresszinnek is az antidiuretikus hormont?",
+      "【… mert az erős érösszehúzó hatása miatt emeli a vérnyomást… 】",
+      "Hol helyezkedik el a mellékvese?",
+      "【… a vesék felső pólusán , a zsírszövetbe ágyazódva… 】",
+      "Hogyan hat az adrenalin és a noradrenalin a perifériás erekre?",
+      "【…a perifériás ereket szűkítik… 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 18,
+     "pont": 3,
+     "csillag": true,
+     "kerdes": "Ismertesse a Basedow-kórt (hyperthyreosis) a megadott szempontok szerint!",
+     "sorok": [
+      "Lényege: 【…A pajzsmirigy autoimmun túlműködése okozta megbetegedés.…. 】",
+      "Gyakorisága:【 …Előfordulása a nőknél négyszer gyakoribb, mint a férfiaknál… 】",
+      "Gyógyításának, kezelésének, lehetőségei: Írjon egyet!",
+      "【- gyógyszeres terápia 】",
+      "【- műtét 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 19,
+     "pont": 4,
+     "csillag": true,
+     "kerdes": "Soroljon fel a neuroglia jellemzői közül négyet!",
+     "sorok": [
+      "【- az idegszövet sejtközötti állománya 】",
+      "【- működése a többi szerv kötőszövetéhez hasonlítható 】",
+      "【- a neuronétól teljesen eltérő szerkezetű és funkciójú építőelem 】",
+      "【- a központi és perifériás idegrendszerben is megtalálható, de az 】",
+      "【idegfolyamatokban nem vesz részt 】",
+      "【- a központi idegrendszeri kapillárisokat gliaburokkal veszi körül, elhatárolja a 】",
+      "【neuronoktól 】",
+      "【- a centrális és a perifériális idegrostok hüvelyét építi fel 】",
+      "【- támasztó, térkitöltő, elhatároló funkciója van 】",
+      "【- részt vesz az idegszövet anyagcseréjében 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 20,
+     "pont": 4,
+     "csillag": true,
+     "kerdes": "Ismertessen az epilepsziás nagyroham lezajlásának jellemzői közül négyet!",
+     "sorok": [
+      "【- bevezető 】 【tünetekkel 】 【kezdődik: 】 【fejfájás, 】 【szédülés, 】 【szívdobogásérzés, 】",
+      "【hőhullámok, fázás, ingerlékenység, lehangoltság, szorongás, aurajelenség 】",
+      "【- hirtelen kitörő tónusos generalizált roham jelentkezik 】",
+      "【- a beteg elesik, elvágódik 】",
+      "【- rövid légzésszünet áll be 】",
+      "【- clonusos generalizált rángások jelentkeznek, amelyek percekig is eltarthatnak 】",
+      "【- a roham után mély alvás jelentkezhet, amely ködös állapotba megy át 】",
+      "【- a tudat fokozatosan tisztul fel 】",
+      "【- a beteg nem emlékszik a rohamra és az azt követő időszakra 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 21,
+     "pont": 3,
+     "csillag": false,
+     "kerdes": "Nevezze meg a szem középső burkának részeit magyarul!",
+     "sorok": [
+      "【- érhártya 】",
+      "【- szivárványhártya 】",
+      "【- sugártest 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 22,
+     "pont": 4,
+     "csillag": true,
+     "kerdes": "Ismertesse a bőr feladatait és járulékos részeit! Írjon kettőt-kettőt!",
+     "sorok": [
+      "Feladatai:",
+      "【- védelem 】",
+      "【- hőszabályozás 】",
+      "【- zsírraktározás 】",
+      "【- a tapintás érzékszerve 】",
+      "【- a test elhatárolása a külvilágtól 】",
+      "Járulékos részei:",
+      "【- szőrszálak 】",
+      "【- faggyúmirigyek 】",
+      "【- verejtékmirigyek 】",
+      "【- körmök 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 23,
+     "pont": 4,
+     "csillag": true,
+     "kerdes": "Határozza meg az elsősegélynyújtó teendőit - felnőtteknél - légúti idegentest előfordulása esetén!",
+     "sorok": [
+      "【- pánikba esett sérült megnyugtatása közben azonnali cselekvés 】",
+      "【- szájba két ujjal benyúlva az idegentes kiemelése 】",
+      "【- köhögésre bíztatás 】",
+      "【- a tenyér alsó részével erőteljes csapás a lapockacsontok közé a sérült 】",
+      "【enyhén előre hajlott rörzsén 】",
+      "【- Heimlich-féle műfogás 】",
+      "【- eredménytelenség esetén azonnal mentőt hívni 】",
+      "【- ismételni a folyamatot a lapocka közti ütésektől 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 24,
+     "pont": 4,
+     "csillag": true,
+     "kerdes": "Egészítse ki a táblázatot az égés egyes fokozataihoz kapcsolódó egy-egy tünettel/jellemzővel!",
+     "sorok": [
+      "az égés",
+      "tünetek/jellemzők",
+      "fokozatai",
+      "I. fokú égés 【bőrpír, fájdalom 】",
+      "II. fokú égés 【égési hólyag (bulla), heves fájdalom 】",
+      "【a bőr felső rétege teljesen elpusztul, a bőrfelület 】",
+      "III. fokú égés",
+      "【piszkosszürkévé válik 】",
+      "IV. fokú égés 【elszenesedés, a bőr alatti egyéb szövetek is pusztulnak 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    }
+   ]
+  },
+  {
+   "jel": "II",
+   "datum": "2026-06-08",
+   "cim": "Egészségügyi alapmodul 20260608 II.",
+   "pdf": "https://enk.okfo.gov.hu/pfile/file?path=/tevekenysegek/szakkepzes-fejlesztes/szakkepzeshez-kapcsolodo-dokumentumok-gyujtemenye/Megoldolapok/EUM_2026.06.08._2026.06.11/EUMII_0608.pdf1",
+   "osszpont": 100,
+   "kerdesek": [
+    {
+     "szam": 1,
+     "pont": 4,
+     "csillag": false,
+     "kerdes": "Nevezze meg az immunitás típusait a megadott felosztás szerint!",
+     "sorok": [
+      "veleszületett immunitás:",
+      "【- faji 】",
+      "【- anyai 】",
+      "szerzett immunitás:",
+      "【- fertőző betegség átvészelése után kialakult 】",
+      "【- védőoltások által szerzett 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 2,
+     "pont": 5,
+     "csillag": false,
+     "kerdes": "Ismertesse a daganatsejtek működésének sajátosságait!",
+     "sorok": [
+      "【- növekedésük nincs összhangban a kiindulási szövet növekedésével 】",
+      "【- a kiváltó tényező megszűnése után a daganat növekedése folytatódik 】",
+      "【- szerkezetük eltér a kiindulási szövetekétől 】",
+      "【- növekedésük autonóm, független 】",
+      "【- a daganatos szövetburjánzás céltalan, hasztalan, káros 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 3,
+     "pont": 4,
+     "csillag": false,
+     "kerdes": "Párosítsa a megadott izmokat és izomcsoportokat! Írja a sorszámok mellé a helyes válasz betűjelét!",
+     "sorok": [
+      "1. musculus gluteus maximus A. felkarizom",
+      "2. musculus deltoideus B. csípőizom",
+      "3. csuklyásizom C. hátizom",
+      "4. musculus biceps D. vállövizom",
+      "1.−…【B.】…, 2.−…【D.】…, 3.−…【C.】…, 4.−…【A.】…"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 4,
+     "pont": 6,
+     "csillag": true,
+     "kerdes": "Ismertesse a Scheuermann-féle betegséget az alábbi szempontok szerint!",
+     "sorok": [
+      "A. A betegség megjelenésére jellemző életkor:",
+      "…【 serdülőkor 】…",
+      "B. A betegség lényege:",
+      "...【 a csigolyatestek elkeskenyednek, elvesztik szilárdságukat】...",
+      "C. Panaszok, tünetek: Írjon kettőt!",
+      "【- hát fájdalmas fáradékonysága 】",
+      "【- háti szakasz fokozott görbülete 】",
+      "【- hát merevsége 】",
+      "【- mozgáskorlátozottság 】",
+      "【- terhelhetőség csökkenése 】",
+      "D. A betegség terápiája: Írjon kettőt!",
+      "【- gyógytorna 】",
+      "【- úszás 】",
+      "【- fűző viselése 】",
+      "【- gyógyszeres kezelés 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 5,
+     "pont": 5,
+     "csillag": false,
+     "kerdes": "Húzza alá az alábbiak közül a lépre vonatkozó helyes megállapításokat!",
+     "sorok": [
+      "- a rekesz alatt a hasüreg jobb oldalán helyezkedik el",
+      "- ⟦a rekesz alatt a hasüreg bal oldalán helyezkedik el⟧",
+      "- fehér pulpáját a vér alakos elemei alkotják",
+      "- ⟦szöveti szerkezete két állományra különíthető el⟧",
+      "- fő feladata a méreganyagok kiválasztása",
+      "- ⟦fő feladata a lymphocyták képzése ⟧",
+      "- kemény, lila színű, páros szerv",
+      "- ⟦kékesvörös színű, puha, páratlan szerv⟧",
+      "- glükogént raktároz",
+      "- ⟦a vért raktározza⟧"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 6,
+     "pont": 4,
+     "csillag": true,
+     "kerdes": "Soroljon fel a vörösvértestek képződéséhez szükséges anyagok közül négyet!",
+     "sorok": [
+      "【- B1-vitamin 】",
+      "【- B12-vitamin 】",
+      "【- C-vitamin 】",
+      "【- vas 】",
+      "【- aminosavak 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 7,
+     "pont": 5,
+     "csillag": false,
+     "kerdes": "Húzza alá az alábbiak közül a légzőrendszerrel kapcsolatos helyes megállapításokat!",
+     "sorok": [
+      "- ⟦a bal tüdő két lebenyből áll⟧",
+      "- a bal tüdő három lebenyből áll",
+      "- a légzés idegi szabályozásának a központja a kisagyban található",
+      "- ⟦a légzés idegi szabályozásának a központja a nyúltvelőben található⟧",
+      "- ⟦a légcső és a főhörgők belső felszínét csillőszőrös hengerhám alkotja⟧",
+      "- a vér vegyhatásának savas irányú megváltozása esetén a légzésszám csökken",
+      "- ⟦a vér vegyhatásának savas irányú megváltozása esetén a légzésszám⟧",
+      "⟦megemelkedik⟧",
+      "- a hangszalagok a gégefedő és a gyűrűporc között feszülnek",
+      "- ⟦a hangszalagok a pajzsporc és a mögötte lévő kannaporcok között feszülnek⟧",
+      "- a légcső és a hörgők nyálkahártyahámját csillószőrös laphám alkotja"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 8,
+     "pont": 2,
+     "csillag": false,
+     "kerdes": "Határozza meg röviden az alábbi fogalmakat!",
+     "sorok": [
+      "Vitálkapacitás: 【…Maximális belégzés után a maximális kilégzéssel kifújt levegő 】",
+      "【mennyisége (kb. 4,5-5 l)….】",
+      "Reziduális levegő: 【…Teljes kilégzés után a tüdőben maradt levegő mennyisége… 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 9,
+     "pont": 3,
+     "csillag": false,
+     "kerdes": "Nevezze meg a hasnyálmirigy hormonjait!",
+     "sorok": [
+      "- 【inzulin 】",
+      "- 【glükagon 】",
+      "- 【szomatosztatin 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 10,
+     "pont": 5,
+     "csillag": false,
+     "kerdes": "Párosítsa a vitaminokat feladataikkal! Írja a sorszámok mellé a helyes válasz betűjelét!",
+     "sorok": [
+      "1. B6-vitamin A. a nemi mirigyek normál működéséhez szükséges",
+      "2. P-vitamin B. fehérjék lebontása",
+      "3. E-vitamin C. hámvédő, és a látóbíbor alkotásában vesz részt",
+      "4. A-vitamin D. a normál véralvadáshoz szükséges",
+      "5. K-vitamin E. a C-vitamin hatását támogatja",
+      "1.‒…【B.】…, 2.‒…【E.】…, 3.‒…【A.】…, 4.‒…【C.】…, 5.‒…【D.】…"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 11,
+     "pont": 5,
+     "csillag": true,
+     "kerdes": "Soroljon fel a fekélyes vastagbélgyulladás lehetséges tünetei közül ötöt!",
+     "sorok": [
+      "【- tartós hasmenés 】",
+      "【- véres, nyákos széklet 】",
+      "【- kínzó székelési inger 】",
+      "【- görcsös hasi fájdalom 】",
+      "【- hőemelkedés 】",
+      "【- vérszegénység 】",
+      "【- kiszáradás 】",
+      "【- fogyás 】",
+      "【- vashiány 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 12,
+     "pont": 5,
+     "csillag": false,
+     "kerdes": "Válaszoljon röviden az alábbi kérdésekre!",
+     "sorok": [
+      "Hol termelődik az eritropoetin?",
+      "…【vesékben】…",
+      "Mennyi a végleges vizelet fajsúlya?",
+      "…【1020-1025 g/l】…",
+      "Tartalmaz-e élettanilag urobilinogént a végleges vizelet?",
+      "…【tartalmaz】…",
+      "Tartalmaz-e élettanilag bilirubint a végleges vizelet?",
+      "…【nem tartalmaz】…",
+      "Mely szerv helyezkedik el a vese felső pólusán a középső zsíros tokba",
+      "ágyazva?",
+      "…【a mellékvese】…"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 13,
+     "pont": 5,
+     "csillag": true,
+     "kerdes": "Soroljon fel ötöt a polyuria lehetséges okai közül!",
+     "sorok": [
+      "【- fokozott folyadékbevitel 】",
+      "【- ödémák kiürülése 】",
+      "【- diuretikumok szedése 】",
+      "【- cukorbetegség 】",
+      "【- krónikus veseelégtelenség (kompenzáló polyuria) 】",
+      "【- folyadék- és elektrolitszabályozás zavara (diabetes insipidus) 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 14,
+     "pont": 3,
+     "csillag": false,
+     "kerdes": "Nevezze meg a méh falának rétegeit magyarul!",
+     "sorok": [
+      "【- külső, hashártya által borított réteg 】",
+      "【- középső izomréteg 】",
+      "【- belső nyálkahártyaréteg 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 15,
+     "pont": 2,
+     "csillag": false,
+     "kerdes": "Írja le a terhesség időtartamát napokban és a szülés várható időpontjának kiszámítását!",
+     "sorok": [
+      "Időtartam: 【280 nap】",
+      "Szülés várható időpontjának kiszámítása: 【az utolsó menstruáció első napjához 】",
+      "【hozzáadunk 7 napot, majd visszaszámolunk 3 hónapot. 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 16,
+     "pont": 3,
+     "csillag": true,
+     "kerdes": "Ismertesse a fitymaszűkület lényegét, gyógyításának lehetőségeit!",
+     "sorok": [
+      "Lényege:",
+      "【A hímvessző fedőbőrének nyílása olyan szűk, hogy a fityma nem, vagy csak 】",
+      "【részlegesen húzható hátra a makkról. 】",
+      "Gyógyítása: Írjon kettőt!",
+      "【- a fityma tágítása 】",
+      "【- a fityma eltávolítása 】",
+      "【- a fitymafék átvágása 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 17,
+     "pont": 4,
+     "csillag": true,
+     "kerdes": "Fogalmazzon meg a hypothalamus jellemzői/feladatai közül négyet!",
+     "sorok": [
+      "【- belső elválasztású mirigy 】",
+      "【- a köztiagynak a thalamus alatti részén található, a III. agykamra oldalfalát 】",
+      "【képezi 】",
+      "【- a szervezet belső környezetének viszonylagos állandóságát szabályozza 】",
+      "【- szerepet játszik az ember érzelmi (emocionális) magatartásában 】",
+      "【- hormonjai: az antidiuretikus hormon és az oxitocin 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 18,
+     "pont": 5,
+     "csillag": true,
+     "kerdes": "Ismertesse a csecsemőmirigyet a megadott szempontok alapján! Töltse ki a táblázatot!",
+     "sorok": [
+      "A csecsemőmirigy",
+      "Hormonja 【timozin 】",
+      "【- a növekedést fokozza 】",
+      "Feladatai",
+      "【- a szexuális fejlődést serkenti 】",
+      "Írjon kettőt!",
+      "【- antitestképzés (nyirokszerv) 】",
+      "【a gátorüreg elülső részében, a szegycsont 】",
+      "Helye a szervezetben",
+      "【mögött helyezkedik el】",
+      "【- egyénenként és életkor szerint eltérő nagyságú 】",
+      "Jellemzője 【- serdülőkor után elsorvad, 】",
+      "Írjon egyet! 【- T-lymphocyták szelekciójában vesz részt 】",
+      "【- pubertás korra éri el legnagyobb fejlettségét 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 19,
+     "pont": 4,
+     "csillag": false,
+     "kerdes": "Csoportosítsa a környéki és a központi idegrendszer részeit! Írja a sorszámokat a megfelelő helyre!",
+     "sorok": [
+      "1. agyvelő",
+      "2. gerincvelői idegek",
+      "3. agyidegek",
+      "4. gerincvelő",
+      "Környéki vagy perifériás idegrendszer része: ...【2., 3.】...",
+      "Központi idegrendszer része: ...【1., 4.】..."
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 20,
+     "pont": 5,
+     "csillag": true,
+     "kerdes": "Soroljon fel az epilepszia lehetséges okai közül ötöt!",
+     "sorok": [
+      "【- gyulladásos folyamatok 】",
+      "【- daganatok 】",
+      "【- agyi vérzések 】",
+      "【- koponyasérülések 】",
+      "【- fejlődési rendellenességek 】",
+      "【- sorvadásos megbetegedések kísérőjelensége (tüneti epilepszia) 】",
+      "【- önálló kórkép/genuin epilepszia 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 21,
+     "pont": 4,
+     "csillag": true,
+     "kerdes": "Ismertesse a gynaecomastia lényegét és lehetséges okait!",
+     "sorok": [
+      "Lényege:【 …A férfi emlőmirigyek túlzott fejlődése 】",
+      "Kialakulásának lehetséges okai: Írjon hármat!",
+      "【- hormonális eltérés 】",
+      "【- gyógyszer mellékhatása 】",
+      "【- elhízás 】",
+      "【- prosztataproblémák 】",
+      "【- májbetegségek 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 22,
+     "pont": 5,
+     "csillag": true,
+     "kerdes": "Nevezzen meg az ajakherpesz (herpes labialis) fertőzés lehetséges tünetei közül ötöt!",
+     "sorok": [
+      "【- láz 】",
+      "【- fejfájás 】",
+      "【- izomfájdalom 】",
+      "【- égő, viszkető, feszítő érzés a száj nyálkahártyáján 】",
+      "【- fájdalmas, áttetsző hólyagocskák megjelenése melyek megnyílnak, nedveznek 】",
+      "【- pörkösödve gyógyulnak a hólyagok 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 23,
+     "pont": 5,
+     "csillag": true,
+     "kerdes": "Írja le a mellkaskompressziók kivitelezésének lépéseit felnőtt újraélesztése esetén!",
+     "sorok": [
+      "【- Az egymásra helyezett tenyerek kéztői részét a mellkas középvonalában a 】",
+      "【szegycsont alsó felére helyezzük. 】",
+      "【- Ügyelni kell arra, hogy a kinyújtott, mellkasra merőleges karok által 】",
+      "【közvetített erő csupán fent leírt kis területre korlátozódjon. 】",
+      "【- A sternumot legalább 4, de legfeljebb 6 cm mélyre lenyomjuk (átlagos méretű 】",
+      "【felnőtt esetén) gyors, határozott mozdulatokkal. 】",
+      "【- Ebben a helyzetben egy pillanatig megtartjuk, majd engedjük a mellkast 】",
+      "【teljesen felemelkedni (lenyomás-felengedés). 】",
+      "【- A kompresszió üteme (frekvencia): 100-120/min 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 24,
+     "pont": 2,
+     "csillag": true,
+     "kerdes": "Határozza meg az elsősegélynyújtáshoz kapcsolódó időfaktor fogalmát és a magas időfaktor jellemzőjét!",
+     "sorok": [
+      "Időfaktor:",
+      "【A sürgősség mértékét jelző képzeletbeli mutató. 】",
+      "【Az időfaktor azt fejezi ki, hogy bizonyos idő alatt mennyit romlik a balesetes 】",
+      "【állapota. 】",
+      "Magas időfaktor:",
+      "【Magas az időfaktor, ha igen rövid idő alatt, igen sokat romlik a balesetes 】",
+      "【állapota. 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható"
+    }
+   ]
+  },
+  {
+   "jel": "III",
+   "datum": "2026-06-09",
+   "cim": "Egészségügyi alapmodul 20260609 III.",
+   "pdf": "https://enk.okfo.gov.hu/pfile/file?path=/tevekenysegek/szakkepzes-fejlesztes/szakkepzeshez-kapcsolodo-dokumentumok-gyujtemenye/Megoldolapok/EUM_2026.06.08._2026.06.11/EUMIII_0609.pdf1",
+   "osszpont": 100,
+   "kerdesek": [
+    {
+     "szam": 1,
+     "pont": 3,
+     "csillag": false,
+     "kerdes": "Nevezze meg az immunválasz összetevőit!",
+     "sorok": [
+      "【- antigén felismerése 】",
+      "【- a megfelelő immunsejtek aktiválása 】",
+      "【- végrehajtó (effektor) funkció 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 2,
+     "pont": 6,
+     "csillag": true,
+     "kerdes": "Soroljon fel az elhalás formái közül hatot!",
+     "sorok": [
+      "【- alvadásos 】",
+      "【- lágyulásos 】",
+      "【- száraz üszök 】",
+      "【- nedves üszök 】",
+      "【- felfekvés 】",
+      "【- zsírnekrózis 】",
+      "【- infarktus 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 3,
+     "pont": 4,
+     "csillag": false,
+     "kerdes": "Húzza alá az alábbiak közül a mozgásrendszerre vonatkozó helyes megállapításokat!",
+     "sorok": [
+      "- A nagy mellizom a mell- és a hasüreget határolja.",
+      "- ⟦A gerinc 32-33 csigolyából áll.⟧",
+      "- Csontos összeköttetés található a csigolyák között.",
+      "- ⟦A kéztő nyolc apró, szabálytalan alakú csontból áll, melyek két sorban⟧",
+      "⟦helyezkednek el.⟧",
+      "- A rekeszizom legyező alakú izom, a mellkastól a felső végtag felé húzódik.",
+      "- ⟦A csontok vastagságbeli növekedését a csonthártya biztosítja.⟧",
+      "- A porcszövet ereket és idegeket tartalmaz, ezért sérülései igen fájdalmasak.",
+      "- ⟦Porc borítja a csontok ízfelszíneit, illetve egyes szervekben vázalkotó⟧",
+      "⟦szerepe is van.⟧"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 4,
+     "pont": 5,
+     "csillag": false,
+     "kerdes": "Párosítsa a mozgásszervi betegségeket jellemzőikkel! Írja a betűjelek mellé a helyes válasz sorszámát!",
+     "sorok": [
+      "A. sokízületi gyulladás (RA)",
+      "B. csonttuberkulózis",
+      "C. reumás láz",
+      "D. Bechterew-kór",
+      "E. csontvelőgyulladás",
+      "1. A kéz kisízületeinek fájdalmas gyulladása, fokozatos ízületi deformálódással",
+      "járó betegsége.",
+      "2. Lezajlott mandulagyulladás után hetekkel jelentkezik a nagyízületek",
+      "fájdalmas gyulladása, később szívkárosodást is okozhat.",
+      "3. Cseppfertőzéssel terjed, elsősorban a mellkasi és az ágyéki csigolyákat",
+      "érinti, de a térdben és a csípőben is jelentkezhet.",
+      "4. Főleg 16 éves kor alattiaknál fordul elő, az érintett végtag fájdalmas,",
+      "duzzadt, felette a bőr piros, a fájdalom lüktető jellegű.",
+      "5. A gerincet és a keresztcsontot alkotó ízületeket érinti, a csigolyák",
+      "összecsontosodásával jár.",
+      "A. ̶ …【1.】…, B. ̶ …【3.】…, C. ̶ …【2.】…, D. ̶ …【5.】…, E. ̶ …【4.】…"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 5,
+     "pont": 3,
+     "csillag": false,
+     "kerdes": "Nevezze meg latinul a szív saját ereit (szívizmot ellátó erek)!",
+     "sorok": [
+      "【- arteria coronaria dextra 】",
+      "【- arteria coronaria sinistra 】",
+      "【- sinus coronarius 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 6,
+     "pont": 3,
+     "csillag": true,
+     "kerdes": "Válaszoljon röviden az alábbi kérdésekre!",
+     "sorok": [
+      "Mi a nyirok?",
+      "【…a nagyvérkör kapillárishálózatának területén képződő folyadék, amely a 】",
+      "【vérplazmából származik… 】",
+      "Hová ömlik a mellkasi fő nyirokvezeték (ductus thoracicus)?",
+      "【…a bal vénás szögletben a vénákba... 】",
+      "Kiknek a szervezetében termelődhet anti-D ellenanyag?",
+      "【…azoknak az Rh-negatív egyéneknek a szervezetében, akiknek valamilyen okból 】",
+      "【D-antigén jutott a vérükbe… 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 7,
+     "pont": 5,
+     "csillag": true,
+     "kerdes": "Soroljon fel a trombózis kialakulásában szerepet játszó tényezők közül ötöt!",
+     "sorok": [
+      "【- az érbelhártya sérülése 】",
+      "【- a keringés lelassulása (vénás pangás) 】",
+      "【- nagy hasi műtétek után 】",
+      "【- szülés utáni állapot 】",
+      "【- erek tartós, kóros tágulata 】",
+      "【- a vér összetételének megváltozása 】",
+      "【- az alvadási fehérjék kóros szintje, működése 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 8,
+     "pont": 4,
+     "csillag": true,
+     "kerdes": "Nevezze meg a tüdő kettős vérellátását biztosító érrendszereket és feladatukat!",
+     "sorok": [
+      "1. 【arteria bronchialis rendszer 】feladata: 【a tüdő szövetének táplálása 】",
+      "2. 【truncus pulmonalis rendszer】 feladata: 【a gázcseréhez szükséges vér 】",
+      "【 szállítása a tüdőbe 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 9,
+     "pont": 6,
+     "csillag": true,
+     "kerdes": "Ismertessen a légzésszámot befolyásoló tényezők közül hatot!",
+     "sorok": [
+      "【- életkor 】",
+      "【- fizikai aktivitás 】",
+      "【- akut fájdalom 】",
+      "【- izgalom/szorongás 】",
+      "【- dohányzás 】",
+      "【- testhelyzet 】",
+      "【- egyes gyógyszerek (narkotikumok, szedatívumok) 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 10,
+     "pont": 4,
+     "csillag": false,
+     "kerdes": "Párosítsa az alábbi tápanyagokat a bontó enzimjeikkel! Írja a sorszámok mellé a helyes válasz betűjelét!",
+     "sorok": [
+      "1. fehérjék A. kollagenáz, elasztáz",
+      "2. kötőszöveti rostok B. amiláz",
+      "3. szénhidrátok C. lipáz",
+      "4. zsírok D. tripszin",
+      "1.−…【D.】…, 2.−…【A.】…, 3.−…【B.】…, 4.−…【C.】…"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 11,
+     "pont": 5,
+     "csillag": false,
+     "kerdes": "Nevezze meg a fog részeit és feladatait!",
+     "sorok": [
+      "Részei:",
+      "【- korona 】",
+      "【- nyak 】",
+      "【- gyökér 】",
+      "Feladatai:",
+      "【- harapás 】",
+      "【- a táplálék őrlése 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 12,
+     "pont": 4,
+     "csillag": false,
+     "kerdes": "Határozza meg az alábbi fogalmak lényegét!",
+     "sorok": [
+      "Nephron: …【a vese működési egysége】…",
+      "Elsődleges vizelet: …【a vérplazma fehérjementes szűrlete】…",
+      "Homeosztázis: …【a】 【szervezet belső egyensúlya/a szervezet belső környezetének 】",
+      "【állandósága】…",
+      "Clearence-vizsgálat: …【a vese munkájáról, szűrűképességéről tájékoztató 】",
+      "【vizsgálat】…"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 13,
+     "pont": 2,
+     "csillag": false,
+     "kerdes": "Nevezze meg a veseműködés szabályozásának formáit!",
+     "sorok": [
+      "【- idegi szabályozás 】",
+      "【- hormonális szabályozás 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 14,
+     "pont": 3,
+     "csillag": true,
+     "kerdes": "Ismertessen a vesekőképződés hajlamosító tényezői közül hármat!",
+     "sorok": [
+      "【- vizeletpangás a húgyutak szűkülete vagy elzáródása miatt 】",
+      "【- a vizelet fertőződése 】",
+      "【- kőképző anyagok felszaporodása a vizeletben 】",
+      "【- hibás folyadékfogyasztási és táplálkozási szokások 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 15,
+     "pont": 5,
+     "csillag": false,
+     "kerdes": "Párosítsa a női nemi szervekhez jellemzőiket, leírásukat! Írja a sorszámok mellé a helyes válasz betűjelét!",
+     "sorok": [
+      "1. nagyajkak A. kb. 12 cm hosszú, páros, hullámos lefutású",
+      "csatorna, a petesejt továbbítására szolgál",
+      "2. petevezeték B. a kismedence közepén a hólyag és a végbél",
+      "között helyezkedik el",
+      "3. méh C. mandula alakú páros szerv, a nagy és a",
+      "kismedence határán helyezkedik el",
+      "4. hüvely D. rugalmas izomcsatorna, amely a méhnyakat",
+      "és a vulvát köti össze",
+      "5. petefészek E. a hüvelybemenetet két oldalról körülvevő,",
+      "főként zsírszövetből álló bőrredők",
+      "1.−…【E.】…, 2.−…【A.】…, 3.−…【B.】…, 4.−…【D.】…, 5.−…【C.】…"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 16,
+     "pont": 2,
+     "csillag": false,
+     "kerdes": "Ismertesse a herék feladatát!",
+     "sorok": [
+      "【- a hímivarsejtek (spermiumok) képzése, a spermatogenezis 】",
+      "【- a férfi nemi hormon (tesztoszteron) termelése 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 17,
+     "pont": 3,
+     "csillag": true,
+     "kerdes": "Soroljon fel a meddőség lehetséges okai közül hármat, amelyek mindkét nemnél előfordulhatnak!",
+     "sorok": [
+      "【- genetikus tényezők 】",
+      "【- hormonális tényezők 】",
+      "【- anyagcsere-betegségek 】",
+      "【- környezeti tényezők 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 18,
+     "pont": 2,
+     "csillag": false,
+     "kerdes": "Nevezze meg a neuroendokrin rendszer szerveinek működésében létrejövő zavar két típusát!",
+     "sorok": [
+      "【- a hormontermelés fokozódik/hiperfunkció 】",
+      "【- a hormontermelés csökken/hipofunkció 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 19,
+     "pont": 5,
+     "csillag": true,
+     "kerdes": "Ismertessen a tiroxin és trijód-tironin hormonok hatásai közül ötöt!",
+     "sorok": [
+      "【- fokozzák az anyagcsere-folyamatokat 】",
+      "【- serkentik a fehérjék, zsírok, szénhidrátok lebontását, felszívódását 】",
+      "【- fokozzák a szervezet oxigénfelhasználását 】",
+      "【- növelik a vércukorszintet 】",
+      "【- emelik a légzésszámot 】",
+      "【- fokozzák a szívműködést 】",
+      "【- szükségesek a szellemi funkciókhoz 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 20,
+     "pont": 2,
+     "csillag": false,
+     "kerdes": "Határozza meg a megadott tünetek alapján a betegségeket!",
+     "sorok": [
+      "- Tünetek: bő vizelés, napi 3-20 l, alacsony sűrűségű vizelet, olthatatlan",
+      "szomjúságérzés, sok folyadék fogyasztása.",
+      "A betegség neve: ...【diabetes insipidus】…",
+      "- Tünetek: a csontok végi része megvastagodott, nagy orr, megvastagodott",
+      "ajak és fül, erős állkapocs, hosszú ujjak, mély hang.",
+      "A betegség neve: ... 【acromegalia】…"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 21,
+     "pont": 5,
+     "csillag": false,
+     "kerdes": "Írja le a gerincvelői idegek tagozódását!",
+     "sorok": [
+      "- 【nyaki idegek 】",
+      "- 【háti (mellkasi) idegek 】",
+      "- 【ágyéki idegek 】",
+      "- 【keresztcsonti idegek 】",
+      "- 【farkcsonti idegek 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 22,
+     "pont": 4,
+     "csillag": true,
+     "kerdes": "Fogalmazza meg a koponyaűri nyomásfokozódás lényegét, lehetséges következményét!",
+     "sorok": [
+      "【Mivel az agy tágulásra képtelen üregben helyezkedik el, az 】【⟦agyi térszűkítő⟧】",
+      "【⟦folyamatok nyomásfokozódással⟧】【 járnak, amely nyomás az 】【⟦agytörzset⟧】",
+      "【⟦beszoríthatja az öreglyukba (beékelődés⟧】【). A fokozódó nyomás következtében az 】",
+      "【agytörzsben lévő 】【⟦életfontosságú központok⟧】【 a 】【⟦vér- és oxigénhiány miatt⟧】",
+      "【⟦elpusztulnak.⟧】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 23,
+     "pont": 4,
+     "csillag": true,
+     "kerdes": "Sorolja fel azokat az emlő önvizsgálata során tapasztalt elváltozásokat, melyek észlelése esetén orvoshoz kell fordulni! Írjon négyet!",
+     "sorok": [
+      "【- csomó vagy göb az emlőben vagy a hónaljban 】",
+      "【- a mell formájának megváltozása 】",
+      "【- váladékozó mellbimbó 】",
+      "【- tartósan behúzódott mellbimbó 】",
+      "【- az emlő bőrének megváltozása 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 24,
+     "pont": 4,
+     "csillag": true,
+     "kerdes": "Ismertesse a szem akkomodációjának folyamatát!",
+     "sorok": [
+      "【Az 】【⟦5 méternél közelebbi⟧】【 tárgyról érkező 】【⟦széttartó fénysugarakat⟧】【 a szem a 】",
+      "【⟦lencse domborúságának változtatásával⟧】【 gyűjti össze, korrigálja, így azok 】",
+      "【mindig az 】【⟦ideghártya sárgafoltjára⟧】【 vetülnek, éles képet alkotva】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 25,
+     "pont": 4,
+     "csillag": true,
+     "kerdes": "Soroljon fel az agyi érkatasztrófákra jellemző tünetek közül négyet!",
+     "sorok": [
+      "【- fejfájás 】",
+      "【- mozgászavar 】",
+      "【- bénulások 】",
+      "【- beszédzavar 】",
+      "【- zavart tudat 】",
+      "【- eszméletvesztés 】",
+      "【- látászavar 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 26,
+     "pont": 3,
+     "csillag": false,
+     "kerdes": "Írja le az újraélesztés megszakításának három feltételét!",
+     "sorok": [
+      "【- szaksegítség megérkezése, akik átveszik az újraélesztést 】",
+      "【- a beteg elkezd mozogni, kinyitja a szemét, spontán légzése és keringése 】",
+      "【visszatér 】",
+      "【- a segítségnyújtó(k) kimerülése 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    }
+   ]
+  },
+  {
+   "jel": "IV",
+   "datum": "2026-06-09",
+   "cim": "Egészségügyi alapmodul 20260609 IV.",
+   "pdf": "https://enk.okfo.gov.hu/pfile/file?path=/tevekenysegek/szakkepzes-fejlesztes/szakkepzeshez-kapcsolodo-dokumentumok-gyujtemenye/Megoldolapok/EUM_2026.06.08._2026.06.11/EUMIV_0609.pdf1",
+   "osszpont": 100,
+   "kerdesek": [
+    {
+     "szam": 1,
+     "pont": 4,
+     "csillag": true,
+     "kerdes": "Soroljon fel négy olyan helyet az emberi testben, ahol hámszövet található!",
+     "sorok": [
+      "【- a bőr felszíni rétege 】",
+      "【- az emésztőrendszer nyálkahártyájának külső felszíne 】",
+      "【- a légzőrendszer nyálkahártyájának külső felszíne 】",
+      "【- a kiválasztó rendszer nyálkahártyájának külső felszíne 】",
+      "【- az üreges szervek belső felszíne 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 2,
+     "pont": 5,
+     "csillag": false,
+     "kerdes": "Állítsa sorrendbe a betegség szakaszait a betegség lefolyásának megfelelően! Írja le a sorszámokat a megfelelő sorrendben!",
+     "sorok": [
+      "1. szövődmények megjelenése",
+      "2. kifejlődés (manifesztáció) szakasza",
+      "3. lappangás (inkubáció)",
+      "4. kimeneteli szakasz",
+      "5. bevezető szakasz (prodromum)",
+      "Helyes sorrend:….【3., 5., 2., 4., 1....】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 3,
+     "pont": 4,
+     "csillag": false,
+     "kerdes": "Nevezze meg magyarul az alkar és a vállöv (függesztőöv) csontjait!",
+     "sorok": [
+      "Az alkar csontjai:",
+      "【- orsócsont 】",
+      "【- singcsont 】",
+      "A vállöv (függesztőöv) csontjai:",
+      "【- kulcscsont 】",
+      "【- lapockacsont 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 4,
+     "pont": 4,
+     "csillag": true,
+     "kerdes": "Ismertessen négyet a csontvázrendszer funkciói, feladatai közül!",
+     "sorok": [
+      "【- a szervezet szilárd vázát alkotja 】",
+      "【- életfontosságú szerveket véd 】",
+      "【- meghatározza a test alakját és méreteit 】",
+      "【- szivacsos csontvelő üregeiben található a vörös csontvelő, amely a vérképzés 】",
+      "【szerve 】",
+      "【- ásványi anyagokat raktároz 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 5,
+     "pont": 3,
+     "csillag": false,
+     "kerdes": "Nevezze meg magyarul az izmok járulékos részeit!",
+     "sorok": [
+      "【- nyálkatömlő 】",
+      "【- ínhüvely 】",
+      "【- izompólya 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 6,
+     "pont": 5,
+     "csillag": false,
+     "kerdes": "Csoportosítsa a vérkörökhöz a hozzájuk tartozó ereket! Írja a sorszámokat a megfelelő helyre!",
+     "sorok": [
+      "1. arteria pulmonalis",
+      "2. aorta",
+      "3. vena pulmonalisok",
+      "4. vena cava superior",
+      "5. vena cava inferor",
+      "kisvérkör erei: …【1., 3.】…",
+      "nagyvérkör erei: …【2., 4., 5.】…"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 7,
+     "pont": 4,
+     "csillag": false,
+     "kerdes": "Határozza meg az alábbi fogalmakat és mennyiségeket!",
+     "sorok": [
+      "A pulzustérfogattal kilökött vér mennyisége nyugalomban:",
+      "【65-75 ml. 】",
+      "A pulzustérfogat (verőtérfogat) fogalma:",
+      "【Egy összehúzódás során a nagyerekbe kilökött vér mennyisége. 】",
+      "A perctérfogattal kilökött vér mennyisége nyugalomban:",
+      "【kb. 4,5-5 liter/perc. 】",
+      "A perctérfogat fogalma:",
+      "【Egy perc alatt továbbított vérmennyiség.】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 8,
+     "pont": 4,
+     "csillag": false,
+     "kerdes": "Húzza alá a meghatározáshoz tartozó helyes választ!",
+     "sorok": [
+      "Csillószőrök borítják az:",
+      "- ⟦orrüreg nyálkahártyáját⟧ - orrmelléküregek nyálkahártyáját",
+      "Az alveolusok és a truncus pulmonalis rendszer kapillárisai között zajló",
+      "gázcsere:",
+      "- ⟦külső légzés⟧ - belső légzés",
+      "A légzőközpont helye:",
+      "- kisagy - ⟦nyúltvelő⟧",
+      "A garatot a dobüreggel köti össze:",
+      "- gége - ⟦fülkürt⟧"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 9,
+     "pont": 4,
+     "csillag": false,
+     "kerdes": "Ismertesse a vegetatív idegrendszer légzőrendszerre gyakorolt hatásait!",
+     "sorok": [
+      "Szimpatikus hatás:",
+      "【- a bronchusok tágulnak 】",
+      "【- a légzés fokozódik 】",
+      "Paraszimpatikus hatás:",
+      "【- a bronchusok szűkülnek 】",
+      "【- a légzésszám csökken 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 10,
+     "pont": 6,
+     "csillag": false,
+     "kerdes": "Csoportosítsa az ásványi anyagokat a megadott szempontok szerint! Írja a sorszámokat a megfelelő helyre!",
+     "sorok": [
+      "1. szelén",
+      "2. kalcium",
+      "3. nátrium",
+      "4. vas",
+      "5. magnézium",
+      "6. cink",
+      "mikroelemek: ...【 1., 4., 6.】...",
+      "makroelemek: …【2., 3., 5.】..."
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 11,
+     "pont": 5,
+     "csillag": true,
+     "kerdes": "Soroljon fel a bélelzáródás lehetséges tünetei közül ötöt!",
+     "sorok": [
+      "【- görcsös hasi fájdalom 】",
+      "【- hányinger, hányás 】",
+      "【- haspuffadás 】",
+      "【- székrekedés 】",
+      "【- széklet- és szélürítés hiánya 】",
+      "【- „néma has” 】",
+      "【- száraz, lepedékes nyelv 】",
+      "【- száraz, tónustalan bőr 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 12,
+     "pont": 3,
+     "csillag": false,
+     "kerdes": "Nevezze meg magyarul a vesét körülvevő három tokot!",
+     "sorok": [
+      "【- külső, vékony kötőszövetes tok 】",
+      "【- középső, zsíros tok 】",
+      "【- belső kötőszövetes tok 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 13,
+     "pont": 6,
+     "csillag": false,
+     "kerdes": "Csoportosítsa a nephron részeit a megadott szempontok szerint! Írja a sorszámokat a megfelelő helyre!",
+     "sorok": [
+      "1. érgomolyag",
+      "2. Henle-kacs",
+      "3. glomerulus",
+      "4. másodlagos kanyarulatos csatorna",
+      "5. Bowman-tok",
+      "6. elsődleges kanyarulatos csatorna",
+      "Malpighi-test része: ..【1., 3., 5】...",
+      "tubulus része: ...【2., 4., 6.】...."
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 14,
+     "pont": 3,
+     "csillag": true,
+     "kerdes": "Ismertesse a vesék feladatát, szerepét! Írjon hármat!",
+     "sorok": [
+      "【- a sók kiürítése 】",
+      "【- a vízben oldható hasznosíthatatlan anyagok kiürítése 】",
+      "【- a só- és vízháztartás szabályozása 】",
+      "【- a homeosztázis fenntartása 】",
+      "【- hormontermelés 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 15,
+     "pont": 5,
+     "csillag": false,
+     "kerdes": "Párosítsa a férfi nemi szervekhez jellemzőiket! Írja a sorszámok mellé a helyes válasz betűjelét!",
+     "sorok": [
+      "1. mellékhere A. gesztenye nagyságú és alakú, a",
+      "húgyhólyag alatt helyezkedik el",
+      "2. dülmirigy B. páros szerv, rövid kivezetőcsöve az",
+      "ondóvezetékbe nyílik",
+      "3. ondóhólyag C. erős izomzatú vastagfalú cső, amely a",
+      "mellékherétől a húgyhólyag alapjáig ér",
+      "4. here D. a hímivarsejteket és a tesztoszteront",
+      "termeli",
+      "5. ondóvezeték E. feladata a spermiumok tárolása és",
+      "elvezetése",
+      "1.−…【E.】…, 2.−…【A.】…, 3.−…【B.】…, 4.−…【D.】…, 5.−…【C.】…"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 16,
+     "pont": 2,
+     "csillag": true,
+     "kerdes": "Nevezzen meg a HIV-fertőzés megelőzésének lehetőségei közül kettőt!",
+     "sorok": [
+      "【- gumi óvszer (kondom) használata 】",
+      "【- tartós párkapcsolat 】",
+      "【- kábítószer-fogyasztás elkerülése 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 17,
+     "pont": 4,
+     "csillag": false,
+     "kerdes": "Sorolja fel a méhnyálkahártya felépülésének és lelökődésének fázisait latin szakkifejezéssel!",
+     "sorok": [
+      "【- regeneratio/regeneráció 】",
+      "【- proliferatio/proliferáció 】",
+      "【- secretio/szekréció 】",
+      "【- menstruatio/menstruáció 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 18,
+     "pont": 7,
+     "csillag": true,
+     "kerdes": "Soroljon fel hét belső elválasztású mirigyet!",
+     "sorok": [
+      "【- hypothalamus 】",
+      "【- agyalapi mirigy 】",
+      "【- pajzsmirigy 】",
+      "【- mellékpajzsmirigy 】",
+      "【- mellékvese 】",
+      "【- nemi mirigyek 】",
+      "【- csecsemőmirigy 】",
+      "【- tobozmirigy 】",
+      "【- hasnyálmirigy 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 19,
+     "pont": 5,
+     "csillag": false,
+     "kerdes": "Válaszoljon röviden az idegrendszerre vonatkozó alábbi kérdésekre!",
+     "sorok": [
+      "Hol kereszteződik a piramispálya nagy része?",
+      "…【a nyúltvelőben】…",
+      "Hogy nevezzük az idegrendszer támasztószövetét?",
+      "…【neuroglia】…",
+      "Hol található az agyban a beszéd motoros központja?",
+      "…【az egyik féltekében a Sylvius-féle árok fölött】…",
+      "Mely lebenyben találhatók a látóközpontok?",
+      "…【a nyakszirti lebenyben】…",
+      "Hol található a hallás kérgi központja?",
+      "…【a halántéklebenyben】…"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 20,
+     "pont": 4,
+     "csillag": false,
+     "kerdes": "Csoportosítsa a koponyaalap sérüléseihez tüneteiket! Írja a sorszámokat a megfelelő helyre!",
+     "sorok": [
+      "1. liquor- és vércsurgás az orrból",
+      "2. vérömleny a tarkón, garatban",
+      "3. pápaszem-haematoma",
+      "4. liquor- és vércsurgás a garatban",
+      "elülső scala törése: ...【1., 3.】...",
+      "hátsó scala törése: ...【2., 4.】..."
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 21,
+     "pont": 2,
+     "csillag": false,
+     "kerdes": "Nevezze meg a szem ingerfelvevő receptorait!",
+     "sorok": [
+      "【- fényre érzékeny pálcikák 】",
+      "【- színre érzékeny csapok 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 22,
+     "pont": 6,
+     "csillag": true,
+     "kerdes": "Ismertesse a szemhéjgyulladást a megadott szempontok szerint!",
+     "sorok": [
+      "Oka:",
+      "【- erős napozás 】",
+      "【- tartós könnyezés 】",
+      "【- hegesztőfény 】",
+      "【- bakteriális fertőzés 】",
+      "【- ismeretlen eredetű gyulladásos bőrbetegség 】",
+      "Tünetei:",
+      "【- kivörösödött és megvastagodott szemhéj 】",
+      "【- pikkelyes hámlás 】",
+      "【- a szempillák egy részének kihullása 】",
+      "【- viszketés, égető érzés 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 23,
+     "pont": 3,
+     "csillag": true,
+     "kerdes": "Soroljon fel az ájulás lehetséges tünetei közül hármat!",
+     "sorok": [
+      "【˗ szédülés 】",
+      "【˗ émelygés 】",
+      "【˗ gyomortáji nyomás 】",
+      "【˗ látótérben fekete pontok, foltok megjelenése 】",
+      "【˗ eszméletvesztés 】",
+      "【˗ a bőr sápadt, hűvös tapintatú 】",
+      "【˗ a nyálkahártyák sápadtak 】",
+      "【˗ verejtékezés 】",
+      "【˗ alacsony vérnyomás 】",
+      "【˗ gyér, alig tapintható pulzus 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 24,
+     "pont": 2,
+     "csillag": false,
+     "kerdes": "Állítsa sorrendbe a sebellátás menetét! Írja a sorszámokat a pontozott vonalakra!",
+     "sorok": [
+      "…【2.】… a seb környékének megtisztítása",
+      "…【1.】… a sérült nyugalomba helyezése (szükség esetén a végtag felemelése)",
+      "…【4.】… a seb steril fedése, a kötés rögzítése",
+      "…【3.】… a sebszélek fertőtlenítése"
+     ],
+     "pontozas": "Csak a helyes sorrend esetén adható pont!"
+    }
+   ]
+  },
+  {
+   "jel": "V",
+   "datum": "2026-06-10",
+   "cim": "Egészségügyi alapmodul 20260610 V.",
+   "pdf": "https://enk.okfo.gov.hu/pfile/file?path=/tevekenysegek/szakkepzes-fejlesztes/szakkepzeshez-kapcsolodo-dokumentumok-gyujtemenye/Megoldolapok/EUM_2026.06.08._2026.06.11/EUMV_0610.pdf1",
+   "osszpont": 100,
+   "kerdesek": [
+    {
+     "szam": 1,
+     "pont": 5,
+     "csillag": false,
+     "kerdes": "Nevezze meg a hámszövetek fajtáit a felépítő sejtek alakja és a sejtrétegek száma alapján!",
+     "sorok": [
+      "A felépítő sejtek alakja alapján:",
+      "【- laphám 】",
+      "【- köbhám 】",
+      "【- hengerhám 】",
+      "A sejtrétegek száma alapján:",
+      "【- egyrétegű hám 】",
+      "【- többrétegű hám 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 2,
+     "pont": 4,
+     "csillag": false,
+     "kerdes": "Írja le magyarul az alábbi kifejezések jelentését!",
+     "sorok": [
+      "diszfunkció: ...【rendellenes működés】...",
+      "afunkció: ...【a működés hiánya】...",
+      "hipofunkció: ...【csökkent működés】...",
+      "hiperfunkció: ...【fokozott működés】..."
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 3,
+     "pont": 5,
+     "csillag": false,
+     "kerdes": "Egészítse ki a csigolyák számával az alábbi táblázatot!",
+     "sorok": [
+      "Csigolyák megnevezése Csigolyák darabszáma",
+      "nyaki csigolya 【7 】",
+      "háti csigolya 【12 】",
+      "ágyéki csigolya 【5 】",
+      "keresztcsonti csigolya 【5 】",
+      "farkcsigolya 【3-4】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 4,
+     "pont": 4,
+     "csillag": true,
+     "kerdes": "Nevezzen meg négyet az ízületeket összetartó tényezők közül!",
+     "sorok": [
+      "【- külső légnyomás 】",
+      "【- a porcfelszínek közötti tapadás 】",
+      "【- az ízületi tok és a szalagkészülék 】",
+      "【- az ízületeket körülvevő izmok feszessége 】",
+      "【- az ízületek körül lévő egyéb lágy részek és a bőr 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 5,
+     "pont": 4,
+     "csillag": false,
+     "kerdes": "Fogalmazza meg a leírások alapján az EKG-görbe részeit!",
+     "sorok": [
+      "A kamra összehúzódása közben keletkezik: 【…QRS-komplexus… 】",
+      "Pitvaringerület, a pitvar összehúzódása közben keletkezik: 【…P-hullám… 】",
+      "Nyugalmi helyzet visszaállása (refrakter stádium): 【…T-hullám… 】",
+      "Ingerületátvezetés a pitvarról a kamrára: 【…P-Q távolság…】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 6,
+     "pont": 5,
+     "csillag": false,
+     "kerdes": "Párosítsa a vér egyes alkotórészeihez a rájuk jellemző funkciót! Írja a betűjelek mellé a helyes válasz sorszámát!",
+     "sorok": [
+      "A. monocyták 1. véralvadás",
+      "B. vérplazma 2. oxigén megkötése",
+      "C. vérlemezkék 3. fagocitózis",
+      "D. vörösvérsejt (hemoglobin) 4. immunglobulinok termelése",
+      "E. B-lymphocyták 5. hormonok szállítása",
+      "A.−…【3.】…, B.−…【5.】…, C.−…【1.】…, D.−…【2.】…, E.−…【4.】…"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 7,
+     "pont": 6,
+     "csillag": false,
+     "kerdes": "Sorolja fel a légutakat a megadott szempontok szerint!",
+     "sorok": [
+      "felső légutak:",
+      "【- orr, orrüreg 】",
+      "【- orrmelléküregek 】",
+      "【- garat 】",
+      "alsó légutak:",
+      "【- gége 】",
+      "【- légcső 】",
+      "【- tüdő 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 8,
+     "pont": 4,
+     "csillag": false,
+     "kerdes": "Ismertesse a légzés megfigyelésénél feljegyzendő szempontokat!",
+     "sorok": [
+      "【- a légzés száma 】",
+      "【- a légzés mélysége 】",
+      "【- a légzés ritmusa 】",
+      "【- a légzés hangja 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 9,
+     "pont": 6,
+     "csillag": false,
+     "kerdes": "Csoportosítsa a vitaminokat a megadott szempontok szerint! Írja a vitaminok betűjelét a megfelelő helyre!",
+     "sorok": [
+      "A. A-vitamin",
+      "B. B-vitamin",
+      "C. C-vitamin",
+      "D. D-vitamin",
+      "E. E-vitamin",
+      "F. K-vitamin",
+      "Vízben oldódó vitaminok: …【B., C.,】…",
+      "Zsírban oldódó vitaminok: …【A., D., E., F.】…"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 10,
+     "pont": 3,
+     "csillag": true,
+     "kerdes": "Soroljon fel a cukorbetegeknél előforduló alacsony vércukorszint kialakulásának lehetséges okai közül hármat!",
+     "sorok": [
+      "【- a szükségesnél nagyobb mennyiségű inzulin adagolása 】",
+      "【- az inzulin beadását követően elmarad a kellő mennyiségű szénhidrát 】",
+      "【fogyasztása 】",
+      "【- intenzív fizikai munkavégzés 】",
+      "【- fokozott pszichés megterhelés 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 11,
+     "pont": 3,
+     "csillag": false,
+     "kerdes": "Írja le az elsődleges vizelet jellemzőit!",
+     "sorok": [
+      "【- mennyisége napi 160-180 liter 】",
+      "【- a vérplazma fehérjementes szűrlete 】",
+      "【- fajsúlya: 1010 g/l 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 12,
+     "pont": 5,
+     "csillag": true,
+     "kerdes": "Nevezzen meg az elsődleges vizeletből visszaszívódó anyagok közül ötöt!",
+     "sorok": [
+      "【- víz 】",
+      "【- Na-ion 】",
+      "【- K-ion 】",
+      "【- Cl-ion 】",
+      "【- karbamid 】",
+      "【- cukor 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 13,
+     "pont": 3,
+     "csillag": true,
+     "kerdes": "Írjon le a veseeredetű (renalis) akut uraemia lehetséges okai közül hármat!",
+     "sorok": [
+      "【- terhesség/várandósság alatti mérgezéses állapot (toxaemia) 】",
+      "【- glomerulonephritis acuta 】",
+      "【- nehézfémsó-mérgezés 】",
+      "【- gombamérgezés 】",
+      "【- nem csoportazonos vér adása 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 14,
+     "pont": 6,
+     "csillag": false,
+     "kerdes": "Egészítse ki a női nemi szervekkel kapcsolatos mondatokat!",
+     "sorok": [
+      "A …【petefészek】… mandula alakú és nagyságú páros szerv, amely két hormont",
+      "termel: a …【progeszteront】… és az …【ösztrogént】….",
+      "A hüvelybemenet közelében lévő …【Bartholin-mirigyek】… nyákot termelnek.",
+      "A …【petevezeték】… ceruzavastagságú, kb. …【12】… cm hosszú, nyálkahártyával",
+      "bélelt izmos falú cső, amelyben a petesejt a méh ürege felé halad."
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 15,
+     "pont": 4,
+     "csillag": true,
+     "kerdes": "Soroljon fel négyet a női nemi szervek gyulladásos betegségei közül!",
+     "sorok": [
+      "【- szeméremtest-gyulladás (külső nemi szervek) 】",
+      "【- hüvelygyulladás 】",
+      "【- nyakcsatorna-gyulladás 】",
+      "【- méhgyulladás 】",
+      "【- petefészek-gyulladás 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 16,
+     "pont": 4,
+     "csillag": true,
+     "kerdes": "Írja le az alábbi fogalmak lényegét!",
+     "sorok": [
+      "feedback mechanizmus: 【…visszacsatolás,】 【a vérben a hormonszint csökkenése 】",
+      "【fokozott hormonelválasztást vált ki a megfelelő endokrin mirigyben…. 】",
+      "negatív feedback mechanizmus: 【…a vérben a hormonszint emelkedése 】",
+      "【csökkenti, vagy leállítja az endokrin mirigyben a hormon további 】",
+      "【elválasztását…. 】"
+     ],
+     "pontozas": "Helyes válaszonként 2-2 pont adható!"
+    },
+    {
+     "szam": 17,
+     "pont": 5,
+     "csillag": true,
+     "kerdes": "Ismertesse a növekedési hormon (STH) hatását! Írjon ötöt!",
+     "sorok": [
+      "【- a sejtek méretükben megnagyobbodnak 】",
+      "【- a sejtek számukban megszaporodnak 】",
+      "【- a csontok hosszirányban növekednek 】",
+      "【- a csontok vastagodnak 】",
+      "【- a lágy szövetek, zsigerek megnagyobbodnak 】",
+      "【- segíti a fehérjeszintézist 】",
+      "【- segíti új sejtek keletkezését 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 18,
+     "pont": 7,
+     "csillag": false,
+     "kerdes": "Jellemezze a gerincvelőt az alábbi szempontok szerint!",
+     "sorok": [
+      "Latin neve:【 medulla spinalis 】",
+      "Elhelyezkedése:【 a csigolyák által határolt gerinccsatornában 】",
+      "Szakaszai:",
+      "【- nyaki 】",
+      "【- mellkasi 】",
+      "【- ágyéki 】",
+      "【- keresztcsonti 】",
+      "【- farkcsonti 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 19,
+     "pont": 3,
+     "csillag": false,
+     "kerdes": "Nevezze meg a receptorok működésének törvényszerűségeit!",
+     "sorok": [
+      "【- alkalmazkodás 】",
+      "【- Weber–Fechner-törvény 】",
+      "【- specifikus érzékelés 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 20,
+     "pont": 4,
+     "csillag": true,
+     "kerdes": "Írja le a normál szem látását jellemző két fogalom jelentését!",
+     "sorok": [
+      "Távolpont:",
+      "【…Az a legtávolabbi pont, ahonnan még a beeső sugarak az ideghártyán éles 】",
+      "【képet hoznak létre…. 】",
+      "Közelpont:",
+      "【…Az a legközelebbi pont, amelyről maximális akkomodációval éles kép 】",
+      "【keletkezik az ideghártyán…. 】"
+     ],
+     "pontozas": "Helyes válaszonként 2-2 pont adható!"
+    },
+    {
+     "szam": 21,
+     "pont": 3,
+     "csillag": false,
+     "kerdes": "Párosítsa a bőr rétegeit jellemzőikkel! Írja a sorszámok mellé a helyes válasz betűjelét!",
+     "sorok": [
+      "1. irha A. ereket, idegeket nem tartalmaz, alapsejtrétegében",
+      "pigmentsejtek találhatóak",
+      "2. felhám B. a szervezet egyik legnagyobb zsírraktára, eltérő",
+      "vastagságú",
+      "3. bőr alatti kötőszövet C. gazdagon erezett, a bőr szilárdságát, valamint",
+      "rugalmasságát biztosítja",
+      "1.−…【C.】..., 2. −...【A.】..., 3. −…【B.】...."
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 22,
+     "pont": 4,
+     "csillag": true,
+     "kerdes": "Soroljon fel az akut szívinfarktus lehetséges tünetei közül négyet!",
+     "sorok": [
+      "【- halálfélelem 】",
+      "【- szorító, erős mellkasi fájdalom 】",
+      "【- a fájdalom kisugárzik a bal vállba, karba 】",
+      "【- gyomortáji fájdalom 】",
+      "【- nehézlégzés 】",
+      "【- szédülés, gyengeség 】",
+      "【- szürkés bőr, livid ajkak 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 23,
+     "pont": 3,
+     "csillag": true,
+     "kerdes": "Nevezzen meg az alacsony vércukorszint lehetséges tünetei közül hármat!",
+     "sorok": [
+      "【- émelygő éhségérzet 】",
+      "【- fejfájás 】",
+      "【- ideges feszültség 】",
+      "【- sápadtság, hideg verejtékezés 】",
+      "【- feszes pulzus 】",
+      "【- remegés 】",
+      "【- súlyos esetben eszméletvesztés 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    }
+   ]
+  },
+  {
+   "jel": "VI",
+   "datum": "2026-06-10",
+   "cim": "Egészségügyi alapmodul 20260610 VI.",
+   "pdf": "https://enk.okfo.gov.hu/pfile/file?path=/tevekenysegek/szakkepzes-fejlesztes/szakkepzeshez-kapcsolodo-dokumentumok-gyujtemenye/Megoldolapok/EUM_2026.06.08._2026.06.11/EUMVI_0610.pdf1",
+   "osszpont": 100,
+   "kerdesek": [
+    {
+     "szam": 1,
+     "pont": 6,
+     "csillag": true,
+     "kerdes": "Soroljon fel az emberi test fő síkjai közül hatot!",
+     "sorok": [
+      "【- közép- vagy medián sík 】",
+      "【- nyílirányú (sagittalis) sík 】",
+      "【- homloksík (frontális sík) 】",
+      "【- vízszintes vagy horizontális sík 】",
+      "【- középsíkhoz közel eső (medialis) 】",
+      "【- középsíktól távolabb eső (lateralis) 】",
+      "【- elülső vagy hasi (anterior) 】",
+      "【- hátulsó vagy háti (posterior vagy dorsalis) 】",
+      "【- felső vagy feji (superior vagy cranialis) 】",
+      "【- alsó vagy farki (inferior vagy caudalis) 】",
+      "【- törzshöz közelebb eső (proximalis) 】",
+      "【- törzstől távolabb eső (distalis) 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 2,
+     "pont": 5,
+     "csillag": false,
+     "kerdes": "Csoportosítsa az alábbi reakciókat a megadottak szerint! Írja a sorszámokat a megfelelő helyre!",
+     "sorok": [
+      "1. fájdalom",
+      "2. túltengés",
+      "3. idült produktív gyulladás",
+      "4. sorvadás",
+      "5. fibrines gyulladás",
+      "A szervezet jelző reakciója: …【1.】...",
+      "Szöveti elváltozásban/működésváltozásban megnyilvánuló reakció: …【2., 4.】...",
+      "A szervezet védekező reakciója: …【3., 5.】..."
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 3,
+     "pont": 2,
+     "csillag": false,
+     "kerdes": "Jelölje aláhúzással az agykoponya csontjai közül a koronavarrat alkotásában résztvevő csontokat!",
+     "sorok": [
+      "- ⟦falcsont⟧",
+      "- halántékcsont",
+      "- ⟦homlokcsont⟧",
+      "- nyakszirtcsont"
+     ],
+     "pontozas": "Csak a 2 helyes válasz együttes aláhúzása esetén adható pont! Egyéb megoldások esetén pontszám nem adható!"
+    },
+    {
+     "szam": 4,
+     "pont": 8,
+     "csillag": false,
+     "kerdes": "Nevezze meg a felső végtag csontjait magyarul!",
+     "sorok": [
+      "【- kulcscsont 】",
+      "【- lapockacsont 】",
+      "【- felkarcsont 】",
+      "【- orsócsont 】",
+      "【- singcsont 】",
+      "【- kéztőcsontok 】",
+      "【- kézközépcsontok 】",
+      "【- ujjperccsontok 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 5,
+     "pont": 4,
+     "csillag": false,
+     "kerdes": "Húzza alá az alábbiak közül a keringés szervrendszerére vonatkozó helyes megállapításokat!",
+     "sorok": [
+      "- ⟦a nagyvérkör a szív bal kamrájából az aortával indul⟧",
+      "- ⟦a vér pH-értéke: 7,34-7,42 között mozog⟧",
+      "- a vér pH-értéke: 6,34-6,42 között mozog",
+      "- a vörösvértestek élettartama 220 nap",
+      "- ⟦a vörösvértestek élettartama körülbelül 120 nap⟧",
+      "- a visszerek vért a szívből a periféria felé juttatják",
+      "- a vitorlás billentyűk a nagyartériákban és a fő visszerekben helyezkednek el",
+      "- ⟦a pulzusszám normál értéke nyugalmi állapotban felnőttnél 60–80/perc⟧",
+      "- a kisvérkör a szív jobb pitvarából indul"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 6,
+     "pont": 3,
+     "csillag": false,
+     "kerdes": "Nevezze meg a fehérvérsejtek három nagy csoportját!",
+     "sorok": [
+      "【- granulocyták 】",
+      "【- lymphocyták 】",
+      "【- monocyták 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 7,
+     "pont": 4,
+     "csillag": true,
+     "kerdes": "Soroljon fel a légzés hangjának lehetséges kóros eltérései közül négyet!",
+     "sorok": [
+      "【- sípoló légzés 】",
+      "【- szörcsögő 】",
+      "【- stridoros 】",
+      "【- horkoló 】",
+      "【- hörgő 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 8,
+     "pont": 6,
+     "csillag": true,
+     "kerdes": "Ismertesse a náthát a megadott szempontok szerint!",
+     "sorok": [
+      "Oka:",
+      "【…vírusfertőzés… 】",
+      "Lehetséges tünetei: Írjon négyet!",
+      "【- híg orrváladék ürülése 】",
+      "【- gyakori tüsszentés 】",
+      "【- légzés szájon keresztül 】",
+      "【- fejfájás 】",
+      "【- hőemelkedés 】",
+      "Lehetséges szövődménye: Írjon egyet!",
+      "【- orrmelléküreg-gyulladás 】",
+      "【- krónikus gyulladás, fertőző góc kialakulása 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 9,
+     "pont": 4,
+     "csillag": false,
+     "kerdes": "Párosítsa a vitaminokat a feladataikkal! Írja a sorszámok mellé a helyes válasz betűjelét!",
+     "sorok": [
+      "1. A-vitamin",
+      "2. B12-vitamin",
+      "3. C-vitamin",
+      "4. E-vitamin",
+      "A. a nemi mirigyek normál működéséhez szükséges",
+      "B. a vörösvérsejtek képződéséhez szükséges",
+      "C. hámvédő, a látóbíbor alkotásában is részt vesz",
+      "D. antioxidáns, a sejtek működésének szabályozásában, a szervezet",
+      "ellenállóképességének fokozásában vesz részt",
+      "1.−…【C.】..., 2.−…【B.】…, 3.−…【D.】…, 4.−…【A.】…"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 10,
+     "pont": 5,
+     "csillag": true,
+     "kerdes": "Soroljon fel ötöt a húgysavanyagcsere-zavar (köszvény) lehetséges tünetei közül!",
+     "sorok": [
+      "【- általában éjszaka jelentkező váratlan, erős fájdalom egy, vagy több ízületben 】",
+      "【- az érintett ízület érintésre fájdalmas 】",
+      "【- az érintett ízület gyulladt, a bőr az ízület felett vörös, feszes és fényes 】",
+      "【- hidegrázás 】",
+      "【- láz 】",
+      "【- rossz közérzet 】",
+      "【- szapora szívverés 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 11,
+     "pont": 5,
+     "csillag": false,
+     "kerdes": "Ismertesse a húgyhólyaggyulladás lehetséges tüneteit, gyógyításának lehetőségeit!",
+     "sorok": [
+      "Lehetséges tünetei:",
+      "【- gyakori vizelési inger 】",
+      "【- a vizeléssel járó kellemetlen égő-csípő érzés (dysuria) 】",
+      "【- görcsös fájdalom 】",
+      "Gyógyítása:",
+      "【- bő folyadékfogyasztás 】",
+      "【- antibiotikum alkalmazása 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 12,
+     "pont": 4,
+     "csillag": true,
+     "kerdes": "Fogalmazza meg a pyelonephritis acuta lehetséges okait és gyógyításának lehetőségeit!",
+     "sorok": [
+      "Kialakulásának lehetséges okai: Írjon kettőt!",
+      "【- felszálló fertőzés 】",
+      "【- véráram útján történő fertőzés (hematogén fertőzés) 】",
+      "【- a nyirokutak közvetítésével a bélcsatornából bejutott kórokozók 】",
+      "Gyógyításának/kezelésének lehetőségei: Írjon kettőt!",
+      "【- a lázas időszakban ágynyugalom 】",
+      "【- bőséges folyadékbevitel 】",
+      "【- antibiotikumos kezelés 】",
+      "【- a vizeletpangást okozó elváltozás megszüntetése 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 13,
+     "pont": 6,
+     "csillag": false,
+     "kerdes": "Egészítse ki a férfi nemi szervekkel kapcsolatos mondatokat!",
+     "sorok": [
+      "Az …【ondóhólyag】… páros szerv, a húgyhólyag alatt és mögött, a végbél előtt",
+      "helyezkedik el. Mirigyei …【lúgos】… váladékot termelnek, üregrendszerében",
+      "pedig a …【sperma】… tárolódik.",
+      "A …【herék】… feladata a hímivarsejtek képzése, a …【spermatogenezis】… és a",
+      "…【férfi nemi hormon/tesztoszteron】… termelése."
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 14,
+     "pont": 3,
+     "csillag": true,
+     "kerdes": "Ismertesse az endometriózis lényegét, következményét!",
+     "sorok": [
+      "Lényege: 【…A 】【⟦méhben jelenlévő nyálkahártya⟧】【, az endometrium a méhen kívül 】",
+      "【⟦máshol is megjelenik a szervezetben⟧】【….】",
+      "Következménye: 【…meddőség…】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 15,
+     "pont": 4,
+     "csillag": false,
+     "kerdes": "Húzza alá a csecsemőmirigyre és a csecsemőmirigy hormonjára jellemző állításokat!",
+     "sorok": [
+      "⟦Hormonja a timozin.⟧",
+      "Hormonjának hatása, hogy a testnövekedést gátolja.",
+      "⟦A szerv egyénenként és életkor szerint eltérő nagyságú.⟧",
+      "A szénhidrát-, fehérje- és zsíranyagcsere szabályozásában játszik fontos",
+      "szerepet.",
+      "⟦Serdülőkor után fokozatosan elsorvad.⟧",
+      "Egész életen át termelődik a hormonja, de pubertás után nagyobb",
+      "mennyiségben.",
+      "⟦Hormonjának hatására fokozódik a növekedés és a szexuális fejlődés.⟧",
+      "Hormonja az aldoszteron."
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 16,
+     "pont": 6,
+     "csillag": true,
+     "kerdes": "Soroljon fel a Cushing-szindróma lehetséges tünetei közül hatot!",
+     "sorok": [
+      "【- zsírlerakódás a törzsön, a hát felső részén 】",
+      "【- nagy, kerek arc (holdvilágarc) 】",
+      "【- vékonynak tűnő végtagok 】",
+      "【- az izomtömeg és az izomerő csökkenése 】",
+      "【- nehezen gyógyuló bőrsérülések 】",
+      "【- kékeslilás csíkok (striák) a hason, vállon, felkaron, vagy a combon 】",
+      "【- nőknél fokozott szőrképződés 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 17,
+     "pont": 4,
+     "csillag": true,
+     "kerdes": "Ismertesse az arcidegzsábát a megadott szempontok szerint!",
+     "sorok": [
+      "Tünetei: Írjon hármat!",
+      "【- a fájdalmas oldalon az arc görcsös összehúzódása 】",
+      "【- pár másodpercig tart, napi többször ismétlődéssel 】",
+      "【- a rohamok napokig, hetekig tartó periódusokban lépnek fel 】",
+      "【- fokozatosan rövidülő, változó hosszúságú fájdalommentes időszakok 】",
+      "Gyógyítása: Írjon egyet!",
+      "【- gyógyszeres kezelés 】",
+      "【- idegsebészeti beavatkozás 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 18,
+     "pont": 2,
+     "csillag": true,
+     "kerdes": "Írja le a sclerosis multiplex lényegét!",
+     "sorok": [
+      "【Az idegsejtek myelinhüvelyének pusztulásával járó kórkép. 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 19,
+     "pont": 5,
+     "csillag": true,
+     "kerdes": "Ismertesse az emlőgyulladást a megadott szempontok szerint!",
+     "sorok": [
+      "Előfordulása:",
+      "【…Leggyakrabban gyermekágyas és szoptató anyáknál alakul ki…. 】",
+      "Kialakulásának oka:",
+      "【…Szoptatáskor gennykeltő kórokozók jutnak be a nyirokréseken és a tejutakon 】",
+      "【az emlőbe…. 】",
+      "Kezelésének lehetőségei: Írjon hármat!",
+      "【- gyógyszeres kezelés 】",
+      "【- az emlő rendszeres kiürítése 】",
+      "【- borogatás 】",
+      "【- lázcsillapítás 】",
+      "【- műtét 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 20,
+     "pont": 5,
+     "csillag": false,
+     "kerdes": "Húzza alá az alábbiak közül az érzékszervek kórtanára vonatkozó helyes megállapításokat!",
+     "sorok": [
+      "˗ ⟦a psoriasis egyik leggyakoribb előfordulási helye a könyök- és térdhajlat⟧",
+      "˗ szürkehályog során a szem belnyomása emelkedik",
+      "˗ ⟦seborrhoea során fokozódik a faggyútermelés és megváltozik a termelt⟧",
+      "⟦faggyú összetétele is⟧",
+      "˗ az ideghártya leválása fájdalommal jár",
+      "˗ ⟦távollátás során a szemgolyó hossztengelye az átlagosnál rövidebb⟧",
+      "˗ heveny fülkürtgyulladás esetén jó hatású a hidegterápia alkalmazása",
+      "˗ Meniere-betegség esetén a belső fül folyadéktereiben a nyomás lecsökken",
+      "˗ ⟦heveny zajártalom 135 dB feletti zajterhelés esetén jelentkezik⟧",
+      "˗ az övsömör oka a bakteriális fertőződés",
+      "˗ ⟦a zöldhályog észrevétlenül kialakuló szembetegség⟧"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 21,
+     "pont": 5,
+     "csillag": false,
+     "kerdes": "Sorolja fel az alapfokú újraélesztés lépéseit helyes sorrendben!",
+     "sorok": [
+      "【- a biztonságos környezet megteremtése 】",
+      "【- a beteg/sérült vizsgálata 】",
+      "【- légútbiztosítás 】",
+      "【- mellkaskompresszió 】",
+      "【- befúvásos lélegeztetés 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 22,
+     "pont": 4,
+     "csillag": false,
+     "kerdes": "Írja a latin kifejezések mellé a magyar megfelelőket!",
+     "sorok": [
+      "- contusio cerebri: …【agyzúzódás】…",
+      "- combustio: …【égés】…",
+      "- collapsus: …【ájulás】…",
+      "- somnolentia: …【aluszékonyság】…"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    }
+   ]
+  },
+  {
+   "jel": "VII",
+   "datum": "2026-06-11",
+   "cim": "Egészségügyi alapmodul 20260611 VII.",
+   "pdf": "https://enk.okfo.gov.hu/pfile/file?path=/tevekenysegek/szakkepzes-fejlesztes/szakkepzeshez-kapcsolodo-dokumentumok-gyujtemenye/Megoldolapok/EUM_2026.06.08._2026.06.11/EUMVII_0611.pdf1",
+   "osszpont": 100,
+   "kerdesek": [
+    {
+     "szam": 1,
+     "pont": 6,
+     "csillag": true,
+     "kerdes": "Soroljon fel a kötőszövet feladatai közül hatot!",
+     "sorok": [
+      "【- kitölti az egyes szervek közti tereket 】",
+      "【- összeköti a szerveket, szöveteket 】",
+      "【- védelmet nyújt a mechanikai ártalmakkal szemben 】",
+      "【- védelmet nyújt a kémiai ártalmak ellen 】",
+      "【- védelmet nyújt a fertőzések ellen 】",
+      "【- védelmet nyújt az idegen anyagok lerakódása ellen 】",
+      "【- zsírt tárol 】",
+      "【- vizet tárol 】",
+      "【- sót tárol 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 2,
+     "pont": 5,
+     "csillag": false,
+     "kerdes": "Nevezze meg a gyulladástípusokat a képződött izzadmány jellege szerint!",
+     "sorok": [
+      "【- savós (serosus) gyulladás 】",
+      "【- gennyes (suppurativ) gyulladás 】",
+      "【- eves-üszkös gyulladás 】",
+      "【- vérzéses gyulladás 】",
+      "【- fibrines gyulladás 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 3,
+     "pont": 4,
+     "csillag": true,
+     "kerdes": "Soroljon fel négyet az ízületeket összetartó tényezők közül!",
+     "sorok": [
+      "【- külső légnyomás 】",
+      "【- a porcfelszínek közötti tapadás 】",
+      "【- az ízületi tok és a szalagkészülék 】",
+      "【- az ízületeket körülvevő izmok feszessége 】",
+      "【- az ízületek körül lévő egyéb lágy részek és a bőr 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 4,
+     "pont": 5,
+     "csillag": true,
+     "kerdes": "Ismertesse a dongaláb megbetegedést a megadott szempontok szerint!",
+     "sorok": [
+      "Lényege:",
+      "【…fejlődési rendellenesség, az alsó végtagok a hordó dongájához hasonlóan a 】",
+      "【középvonal felé görbülnek… 】",
+      "Gyógyításának, kezelésének lehetőségei: Írjon négyet!",
+      "【- korrekció gipszeléssel, tartó- és rögzítősínekkel 】",
+      "【- gyógytorna 】",
+      "【- masszázs 】",
+      "【- ortopédiai cipő alkalmazása 】",
+      "【- súlyos esetben műtét 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 5,
+     "pont": 5,
+     "csillag": false,
+     "kerdes": "Egészítse ki a szív ingerképző és ingervezető rendszerével kapcsolatos táblázat hiányzó részeit!",
+     "sorok": [
+      "A szív ingerképző és",
+      "Elhelyezkedése",
+      "ingervezető rendszerének részei",
+      "pitvar-kamrai csomó 【a jobb pitvar alsó részében található】",
+      "【HIS-köteg 】 a pitvar-kamrai csomóból indul ki",
+      "【a Tawara-szárak végelágazódásai, a 】",
+      "Purkinje-rostok",
+      "【kamraizomrostok között 】",
+      "【sinuscsomó 】 a jobb pitvar hátsó falában található",
+      "【a kamrákat elválasztó sövényen 】",
+      "Tawara-szárak",
+      "【húzódik lefelé】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 6,
+     "pont": 2,
+     "csillag": false,
+     "kerdes": "Határozza meg a vörös csontvelő helyét a szervezetben!",
+     "sorok": [
+      "【- hosszúcsontok végrészében (combcsont, felkarcsont) 】",
+      "【- rövid és lapos csontokban (szegycsont, csigolyatest) 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 7,
+     "pont": 4,
+     "csillag": true,
+     "kerdes": "Jellemezze a légzőrendszer védekező reflexeit!",
+     "sorok": [
+      "Köhögés:",
+      "【- zárt hangrés melletti erős kilégzés 】",
+      "【- a levegőáramlás magával ragadja az alsó légutakat izgató anyagot 】",
+      "Tüsszentés:",
+      "【- az orr nyálkahártyáját izgató anyag váltja ki 】",
+      "【- mély belégzést követő robbanásszerű kilégzés 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 8,
+     "pont": 7,
+     "csillag": true,
+     "kerdes": "Ismertesse a tüszős mandulagyulladást a megadott szempontok szerint!",
+     "sorok": [
+      "Leggyakoribb kórokozója:",
+      "【…Streptococcus pyogenes… 】",
+      "A betegség terjedési módja:",
+      "【…cseppfertőzés… 】",
+      "Lehetséges tünetei: Írjon ötöt!",
+      "【- nyeléskor erősödő fájdalom 】",
+      "【- hidegrázással magasra szökő láz 】",
+      "【- vörös garatképletek 】",
+      "【- megnagyobbodott mandula 】",
+      "【- bevont nyelv 】",
+      "【- kellemetlen szájszag 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 9,
+     "pont": 5,
+     "csillag": true,
+     "kerdes": "Soroljon fel öt tényezőt, ami befolyásolja a szervezet teljes energia- szükségletét!",
+     "sorok": [
+      "【- szellemi aktivitás 】",
+      "【- fizikai aktivitás 】",
+      "【- testtömeg 】",
+      "【- nem 】",
+      "【- életkor 】",
+      "【- külső hőmérséklet 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 10,
+     "pont": 6,
+     "csillag": false,
+     "kerdes": "Párosítsa az alábbi vitaminokat a hiányukban fellépő betegségekkel! Írja a sorszámok mellé a helyes válasz betűjelét!",
+     "sorok": [
+      "1. A-vitamin A. skorbut",
+      "2. B1-vitamin B. vészes vérszegénység",
+      "3. D-vitamin C. beriberi",
+      "4. C-vitamin D. véralvadási zavar",
+      "5. B12-vitamin E. angolkór",
+      "6. K-vitamin F. farkasvakság",
+      "1.-…【F.】…, 2.-…【C.】…, 3.-…【E.】…, 4.- …【A.】…, 5.-…【B.】…, 6.-…【D.】…"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 11,
+     "pont": 6,
+     "csillag": true,
+     "kerdes": "Ismertesse a terhességi vesebajt a megadott szempontok szerint!",
+     "sorok": [
+      "Jellemző tünetei: Írjon négyet!",
+      "【- a terhesség második felében jelentős testsúlynövekedés 】",
+      "【- nagyfokú ödémaképződés 】",
+      "【- hipertónia 】",
+      "【- proteinuria 】",
+      "【- eclampsiás görcsroham 】",
+      "Kezelésének lehetőségei: Írjon kettőt!",
+      "【- sószegény étrend 】",
+      "【- gyógyszeres kezelés 】",
+      "【- a szülést követően a tünetek megszűnnek 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 12,
+     "pont": 3,
+     "csillag": true,
+     "kerdes": "Fogalmazza meg a pangásos vesebetegség lényegét és kialakulásának okait!",
+     "sorok": [
+      "A betegség lényege:【 Pangásos vese akkor keletkezik, ha a vesevénában 】",
+      "【valamilyen okból a nyomás fokozódik. 】",
+      "A betegség kialakulásának okai:",
+      "1. 【…cardialis decompensatio… 】",
+      "2. 【…a vénás vér elfolyásának gátoltsága… 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 13,
+     "pont": 4,
+     "csillag": false,
+     "kerdes": "Csoportosítsa a menstruációs ciklus fázisait a hormonokhoz! Írja a sorszámokat a megfelelő helyre!",
+     "sorok": [
+      "1. proliferációs fázis",
+      "2. szekréciós fázis",
+      "3. regenerációs fázis",
+      "4. menstruációs fázis",
+      "progeszteron: …【2., 4.】…",
+      "ösztrogén: …【1., 3】…"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 14,
+     "pont": 3,
+     "csillag": true,
+     "kerdes": "Írja le az erős vérzés (menorrhagia) lényegét!",
+     "sorok": [
+      "【…Szabályos időközönként jelentkező, ciklust tartó, de az átlagosnál bőségesebb 】",
+      "【(80 ml-t meghaladó) vérzés….】"
+     ],
+     "pontozas": "Helyes válaszért 3 pont adható!"
+    },
+    {
+     "szam": 15,
+     "pont": 6,
+     "csillag": true,
+     "kerdes": "Ismertesse a Conn-szindrómát a megadott szempontok szerint!",
+     "sorok": [
+      "Lényege:",
+      "【A mellékvesekéreg fokozott aldoszterontermelése következtében kialakuló 】",
+      "【betegség. 】",
+      "Lehetséges okai: Írjon kettőt!",
+      "【- a mellékvesekéreg túlburjánzása 】",
+      "【- a mellékvesekéreg túlműködése 】",
+      "【- a mellékvesekéreg daganata 】",
+      "Lehetséges tünetei: Írjon hármat!",
+      "【- gyógyszeresen nem befolyásolható magas vérnyomás 】",
+      "【- csökkent vér K-szint 】",
+      "【- izomfájdalom 】",
+      "【- izomgyengeség 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 16,
+     "pont": 4,
+     "csillag": true,
+     "kerdes": "Soroljon fel négyet a mellékpajzsmirigy csökkent működésének lehetséges tünetei közül!",
+     "sorok": [
+      "【- a kéz és a láb ujjainak zsibbadása 】",
+      "【- izomgörcsök, izom- összehúzódások:„őzfej” kéztartás (a hüvelykujj és a 】",
+      "【kézujjak kúpot képeznek), „ördögi vigyor” (risus sardonicus) a mimikai izmok 】",
+      "【görcse miatt 】",
+      "【- szapora szívműködés 】",
+      "【- a gégeizmok görcse 】",
+      "【- szürkehályog 】",
+      "【- száraz, repedezett bőr 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 17,
+     "pont": 5,
+     "csillag": true,
+     "kerdes": "Nevezzen meg a migrén lehetséges tünetei közül ötöt!",
+     "sorok": [
+      "【- általános rossz közérzet 】",
+      "【- féloldali görcsös, vagy lüktető jellegű fejfájás 】",
+      "【- fénykerülés 】",
+      "【- zajérzékenység 】",
+      "【- szagtúlérzékenység 】",
+      "【- hányinger, hányás 】",
+      "【- látászavarok 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 18,
+     "pont": 3,
+     "csillag": true,
+     "kerdes": "Írja le az agytrombózis lényegét és a kialakulásának hajlamosító tényezőit!",
+     "sorok": [
+      "Lényege:",
+      "【…az ér elzáródása az érfalon képződött vérrög miatt… 】",
+      "Kialakulásának hajlamosító tényezői: Írjon kettőt!",
+      "【- véralvadási zavarok 】",
+      "【- arterioszklerózis 】",
+      "【- időskor 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 19,
+     "pont": 4,
+     "csillag": true,
+     "kerdes": "Ismertesse a psoriasis okát és kezelésének, gyógyításának lehetőségeit!",
+     "sorok": [
+      "Oka: 【…Pontos oka nem ismert, valószínűleg immuneredetű…. 】",
+      "Kezelésének, gyógyításának lehetőségei: Írjon hármat!",
+      "【- gyógyszeres kezelés 】",
+      "【- kenőcsök helyi alkalmazása 】",
+      "【- fénykezelés 】",
+      "【- pszichés támogatás 】",
+      "【- diéta 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 20,
+     "pont": 5,
+     "csillag": false,
+     "kerdes": "Húzza alá az alábbiak közül az érzékszervek kórtanára vonatkozó helyes megállapításokat!",
+     "sorok": [
+      "- ⟦a zöldhályog lassan, észrevétlenül alakul ki⟧",
+      "- az ideghártya leválása nagy fájdalommal jár",
+      "- ⟦idült zajártalom huzamos ideig tartó, 80-85 dB feletti zajterhelés esetén⟧",
+      "⟦jelentkezik⟧",
+      "- heveny középfülgyulladás gyermekeknél ritkán, a felnőtteknél pedig gyakran",
+      "alakul ki",
+      "- ⟦myopia során a szemgolyó hossztengelye az átlagosnál hosszabb⟧",
+      "- Meniere-betegség esetén a belső fül folyadéktereiben a nyomás lecsökken",
+      "- ⟦a csalánkiütés gyakori bőrbetegség, fő tünete a viszketés és a csoportosan⟧",
+      "⟦megjelenő halvány kiütés⟧",
+      "- az orbánc bármely életkorban előfordulhat, oka vírusfertőzés",
+      "- ⟦a szürkehályog a szemlencse betegsége⟧",
+      "- a basalioma rosszindulatú festékes bőrdaganat"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 21,
+     "pont": 4,
+     "csillag": true,
+     "kerdes": "Ismertesse a napszúrást a megadott szempontok szerint!",
+     "sorok": [
+      "Oka:",
+      "【Hosszú ideig a tűző napon tartózkodás. 】",
+      "Tünetei: Írjon hármat!",
+      "【˗ fokozódó fejfájás 】",
+      "【˗ szédülés 】",
+      "【˗ hányinger 】",
+      "【˗ látászavar 】",
+      "【˗ hőemelkedés, esetleg láz 】",
+      "【˗ fénykerülés 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 22,
+     "pont": 4,
+     "csillag": false,
+     "kerdes": "Ismertesse a sérülés következtében kialakult légmellet a megadott szempontok szerint!",
+     "sorok": [
+      "Lényege: 【…A mellüreg megnyílásakor levegő jut a mellüregbe….】",
+      "Fajtái:",
+      "【- zárt 】",
+      "【- nyitott 】",
+      "【- szelepes 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    }
+   ]
+  },
+  {
+   "jel": "VIII",
+   "datum": "2026-06-11",
+   "cim": "Egészségügyi alapmodul 20260611 VIII.",
+   "pdf": "https://enk.okfo.gov.hu/pfile/file?path=/tevekenysegek/szakkepzes-fejlesztes/szakkepzeshez-kapcsolodo-dokumentumok-gyujtemenye/Megoldolapok/EUM_2026.06.08._2026.06.11/EUMVIII_0611.pdf1",
+   "osszpont": 100,
+   "kerdesek": [
+    {
+     "szam": 1,
+     "pont": 5,
+     "csillag": true,
+     "kerdes": "Nevezzen meg az emberi test fő részei közül ötöt magyarul!",
+     "sorok": [
+      "【- fej 】",
+      "【- nyak 】",
+      "【- törzs 】",
+      "【- mellkas 】",
+      "【- hasüreg 】",
+      "【- medence 】",
+      "【- végtagok 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 2,
+     "pont": 5,
+     "csillag": false,
+     "kerdes": "Egészítse ki a táblázatot a szakkifejezések hiányzó latin, vagy magyar megfelelőjével!",
+     "sorok": [
+      "Szakkifejezések",
+      "latinul magyarul",
+      "acut 【heveny】",
+      "【chronicus】 idült",
+      "morbus 【betegség】",
+      "【benignus】 jóindulatú",
+      "degeneratio 【elfajulás】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 3,
+     "pont": 2,
+     "csillag": false,
+     "kerdes": "Válaszoljon az alábbi kérdésekre!",
+     "sorok": [
+      "Melyik szervet nevezzük primer limfoid szervnek, amely a lymhocyták",
+      "működését is befolyásolja?",
+      "...【a thymust/a csecsemőmirigyet】...",
+      "Hogyan nevezzük a magban kezdődő direkt sejtosztódást?",
+      "...【amitózis】..."
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 4,
+     "pont": 5,
+     "csillag": false,
+     "kerdes": "Húzza alá az alábbi felsorolásból az arckoponya páros csontjait!",
+     "sorok": [
+      "- ⟦felső állcsont (maxilla)⟧",
+      "- rostacsont (os ethmoidale)",
+      "- ⟦orrcsont (os nasale)⟧",
+      "- ⟦könnycsont (os lacrimale)⟧",
+      "- ekecsont (vomer)",
+      "- állkapocs (mandibula)",
+      "- ⟦szájpadcsont (os palatinum)⟧",
+      "- ⟦járomcsont (os zygomaticum)⟧"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 5,
+     "pont": 4,
+     "csillag": false,
+     "kerdes": "Sorolja fel a hasizmok funkcióit!",
+     "sorok": [
+      "【- 】 【összehúzódás 】",
+      "【- 】 【állandó hasi nyomás biztosítása 】",
+      "【- 】 【hasi légzés 】",
+      "【- 】 【hasprés 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 6,
+     "pont": 2,
+     "csillag": true,
+     "kerdes": "Fogalmazza meg röviden a gerincferdülés lényegét!",
+     "sorok": [
+      "【A 】【⟦gerincoszlop oldalirányú görbülete⟧】【, amely a 】【⟦csigolyák egymáson való⟧】",
+      "【⟦elmozdulásának, csavarodásának következtében alakul ki⟧】【. 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 7,
+     "pont": 2,
+     "csillag": false,
+     "kerdes": "Aláhúzással jelölje a végartériákra vonatkozó helyes állításokat!",
+     "sorok": [
+      "- ⟦Az egymással szomszédos területet ellátó artériák között nincs összeköttetés.⟧",
+      "- Az értörzs felső szakaszát az ér alsó részének ágaival köti össze.",
+      "- A felületes-, a mélyvénás- és az artériás rendszer között létrejövő",
+      "érösszeköttetés.",
+      "- ⟦Ha az artéria elzáródik, az általa ellátott terület elhal⟧."
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 8,
+     "pont": 3,
+     "csillag": false,
+     "kerdes": "Párosítsa az anaemia formáit kialakulásuk okaival! Írja a sorszámok mellé a helyes válasz betűjelét!",
+     "sorok": [
+      "1. hemolitikus anaemia",
+      "2. hiányanaemia",
+      "3. aplasztikus anaemia",
+      "A. a csontvelő csökkent vörösvérsejt termelése miatt alakul ki",
+      "B. a vörösvérsejtek fokozott szétesése miatt alakul ki",
+      "C. a hemoglobin, vagy a vörösvérsejtek felépítéséhez szükséges anyagok hiánya",
+      "miatt alakul ki",
+      "1. ̶ …【B.】…, 2. ̶ …【C.】…, 3. ̶ …【A.】…"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 9,
+     "pont": 5,
+     "csillag": true,
+     "kerdes": "Ismertesse a vér szerepét! Írjon ötöt!",
+     "sorok": [
+      "【- tápanyaggal látja el a sejteket 】",
+      "【- oxigént és egyéb anyagokat szállít 】",
+      "【- a bomlástermékeket elszállítja a sejtekből 】",
+      "【- részt vesz az immunvédekezésben 】",
+      "【- részt vesz a szervezet hőszabályozásában 】",
+      "【- a szervezet belső miliőjének állandóságát biztosítja 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 10,
+     "pont": 3,
+     "csillag": true,
+     "kerdes": "Írja le az esszenciális aminosavak fogalmát!",
+     "sorok": [
+      "【A fehérjék építőköveinek azon csoportja, amely 】【⟦a szervezet számára⟧】",
+      "【⟦nélkülönözhetetlen⟧】【, de amelyet 】【⟦az emberi szervezet önmaga előállítani nem⟧】",
+      "【⟦képes,⟧】【 csak 】【⟦táplálékkal kerülhet a szervezetbe⟧】【. 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 11,
+     "pont": 6,
+     "csillag": false,
+     "kerdes": "Húzza alá az alábbi kérdésekhez tartozó helyes választ!",
+     "sorok": [
+      "Mi emeli a légzési perctérfogatot, a légzésszámot?",
+      "- ⟦a légzőközponton áthaladó vér szén-dioxid-szintjének növekedése⟧",
+      "- a légzőközponton áthaladó vér szén-dioxid-szintjének csökkenése",
+      "Mi emeli a légzésszámot?",
+      "- a vér pH-jának lúgos irányba tolódása",
+      "- ⟦a vér pH-jának savas irányba tolódása ⟧",
+      "Hány lebenyből áll a jobboldali tüdőfél?",
+      "- kettő",
+      "- ⟦három⟧",
+      "Melyik porc a nagyobb?",
+      "- ⟦pajzsporc⟧",
+      "- gyűrűporc",
+      "Mi alkotja a légcső és a hörgők nyálkahártyahámját?",
+      "- csillószőrös laphám",
+      "- ⟦csillőszőrös hengerhám⟧",
+      "Melyik szervben közös a táplálék és a levegő útja?",
+      "- ⟦garat⟧",
+      "- gége"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 12,
+     "pont": 3,
+     "csillag": true,
+     "kerdes": "Nevezzen meg hármat a vesekapu (hilus renalis) képletei közül!",
+     "sorok": [
+      "【- veseartéria 】",
+      "【- vesevéna 】",
+      "【- húgyvezeték 】",
+      "【- nyirokerek 】",
+      "【- idegek 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 13,
+     "pont": 5,
+     "csillag": false,
+     "kerdes": "Párosítsa a betegségeket a tüneteikkel! Írja a betűjelek mellé a helyes válasz sorszámát!",
+     "sorok": [
+      "A. asthma bronchiale 1. köhögés, barnásvörös köpetürítés, láz,",
+      "mellkasi fájdalom",
+      "B. pneumonia 2. hőemelkedés, láz, improduktív, majd",
+      "produktív köhögés",
+      "C. oedema pulmonum 3. légszomj, üveges, nyákos köpet, sípoló",
+      "légzési hang",
+      "D. bronchitis 4. rekedtség, fokozódó fulladásérzés, sípoló",
+      "belégzés",
+      "E. oedema laryngis 5. szörcsögő légzési hang, éjszakai rohamszerű",
+      "nehézlégzés",
+      "A.−...【3.】…, B.−…【1.】…, C.−…【5.】…, D.−…【2.】…, E.−…【4.】…"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 14,
+     "pont": 3,
+     "csillag": false,
+     "kerdes": "Ismertesse az idült vesegyulladás lefolyásának három szakaszát!",
+     "sorok": [
+      "1. 【krónikus renális tünetek szaka 】",
+      "2. 【a kompenzált veseelégtelenség szaka 】",
+      "3. 【veseelégtelenség (urémia) 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 15,
+     "pont": 4,
+     "csillag": false,
+     "kerdes": "Húzza alá a felsorolásból a páros szerveket!",
+     "sorok": [
+      "- penis",
+      "- herezacskó",
+      "- ⟦petefészek⟧",
+      "- ⟦petevezeték⟧",
+      "- prosztata",
+      "- méh",
+      "- ⟦here⟧",
+      "- ⟦ondóhólyag⟧"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 16,
+     "pont": 3,
+     "csillag": true,
+     "kerdes": "Nevezzen meg három olyan betegséget, amely férfiaknál a húgycső felől felszálló fertőzés következtében alakulhat ki!",
+     "sorok": [
+      "【- prosztatagyulladás 】",
+      "【- heregyulladás 】",
+      "【- mellékhere-gyulladás 】",
+      "【- vesemedence- és vesegyulladás 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 17,
+     "pont": 5,
+     "csillag": false,
+     "kerdes": "Párosítsa a vitaminokhoz legfőbb étrendi forrásaikat! Írja a sorszámok mellé a helyes válasz betűjelét!",
+     "sorok": [
+      "1. B1-vitamin A. máj, tej, sárgarépa, sütőtök",
+      "2. C-vitamin B. halmáj, tojássárgája, tej, vaj",
+      "3. A-vitamin C. gabonamagvak héja, máj, hús",
+      "4. B6-vitamin D. hús, olajos magvak, élesztő, tej",
+      "5. D-vitamin E. csipkebogyó, zöld növények,",
+      "gyümölcsök",
+      "1.‒…【C.】…, 2.‒…【E.】…, 3.‒…【A.】…, 4.‒…【D.】…, 5.‒…【B.】…"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 18,
+     "pont": 5,
+     "csillag": false,
+     "kerdes": "Írja le a neuroendokrin rendszerrel kapcsolatos szakkifejezések latin vagy magyar megnevezését! Egészítse ki a táblázatot!",
+     "sorok": [
+      "Szakkifejezések",
+      "magyarul latinul",
+      "agyalapi mirigy elülső",
+      "【adenohypophysis 】",
+      "lebenye",
+      "【töröknyereg】 sella turcica",
+      "mellékvese 【glandula suprarenalis 】",
+      "【glandula thyreoidea】 pajzsmirigy",
+      "csecsemőmirigy 【thymus】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 19,
+     "pont": 2,
+     "csillag": true,
+     "kerdes": "Írja le az arányos törpeség lényegét!",
+     "sorok": [
+      "【…Az agyalapi mirigy csökkent működése következtében kialakuló kórosan lassú 】",
+      "【növekedés arányos testméretekkel.… 】"
+     ],
+     "pontozas": "A helyes válaszra 2 pont adható!"
+    },
+    {
+     "szam": 20,
+     "pont": 6,
+     "csillag": false,
+     "kerdes": "Ismertesse a reflexív fogalmát és részeit!",
+     "sorok": [
+      "Fogalma:",
+      "【Az ingerfelvétel helyétől a válaszreakció helyéig terjedő idegpálya.】",
+      "Részei:",
+      "【- receptor 】",
+      "【- érző neuron (afferens szár) 】",
+      "【- reflexközpont 】",
+      "【- mozgató neuron (efferens szár) 】",
+      "【- effektor (válasz), végkészülék 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 21,
+     "pont": 4,
+     "csillag": true,
+     "kerdes": "Nevezzen meg az agyi vérellátási zavarból eredő betegségek közül négyet!",
+     "sorok": [
+      "【- TIA (transient ischaemic attack) 】",
+      "【- PRIND ( prolongált ischaemiás neurológiai deficit) 】",
+      "【- PS (progresszív stroke) 】",
+      "【- agyi érelmeszesedés (arteriosclerosis cerebri) 】",
+      "【- agytrombózis (thrombosis cerebri) 】",
+      "【- agyembólia (embolia cerebri) 】",
+      "【- agyvérzés (stroke) 】",
+      "【- subarachnoidealis vérzés 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 22,
+     "pont": 4,
+     "csillag": false,
+     "kerdes": "Állítsa megfelelő sorrendbe a szem fénytörő közegeit kívülről befelé haladva! Írja a sorszámokat a pontozott vonalakra!",
+     "sorok": [
+      "…【3.】… szemlencse",
+      "…【4.】… üvegtest",
+      "…【1.】… szaruhártya",
+      "…【2.】… csarnokvíz"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 23,
+     "pont": 4,
+     "csillag": false,
+     "kerdes": "Húzza alá a kérdésekhez tartozó helyes válaszokat!",
+     "sorok": [
+      "A nyelv melyik területén érezzük a keserű ízt?",
+      "- a nyelv hegyén",
+      "- ⟦a nyelvgyökön⟧",
+      "- a nyelv oldalsó szélein",
+      "Mi szabályozza a könny termelését?",
+      "- ⟦a VII. agyideg vegetatív része⟧",
+      "- a X. agyideg vegetatív része",
+      "- a III. agyideg vegetatív része",
+      "Milyen színű a dobhártya?",
+      "- fehér színű",
+      "- ⟦szürkésfehér színű⟧",
+      "- világosbarna színű",
+      "Mi az irha feladata?",
+      "- a zsír raktározása",
+      "- a faggyú termelése",
+      "- ⟦a bőr szilárdságának, rugalmasságának biztosítása⟧"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 24,
+     "pont": 4,
+     "csillag": true,
+     "kerdes": "Írja le az elsősegélynyújtás fogalmát, célját!",
+     "sorok": [
+      "Fogalma:",
+      "【⟦Azonnali beavatkozás⟧】【 sérülés, rosszullét esetén a végleges 】【⟦szakellátás⟧】",
+      "【⟦megkezdése előtt.⟧】",
+      "Célja:",
+      "【Az 】【⟦élet mentése⟧】【 és a 】【⟦további egészségkárosodás megakadályozása⟧】【. 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    },
+    {
+     "szam": 25,
+     "pont": 6,
+     "csillag": false,
+     "kerdes": "Ismertesse a sokkot a megadott szempontok szerint!",
+     "sorok": [
+      "Oka:",
+      "【˗ durva, nagy roncsolással járó trauma 】",
+      "【˗ kiterjedt égés 】",
+      "【˗ nagyfokú vér- és folyadékveszteség 】",
+      "Tünetei:",
+      "【˗ szürkés-sápadt, nyirkosan verejtékes, hűvös tapintatú bőr 】",
+      "【˗ a pulzus egyre szaporábbá, elnyomhatóbbá válik, majd alig tapintható 】",
+      "A beteg elhelyezése:",
+      "【Sokkfektetés: hanyatt fekvő helyzet, 200-os szögben felpolcolt alsó végtagokkal. 】"
+     ],
+     "pontozas": "Helyes válaszonként 1-1 pont adható!"
+    }
+   ]
+  }
+ ]
+}
